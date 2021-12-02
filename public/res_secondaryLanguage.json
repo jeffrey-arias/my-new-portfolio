@@ -1,0 +1,347 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I am Jeffrey Arias, a mobile and web software developer. I have more than 14 years of software developmenmt experience, both corporate and freelance. I also have experience in leading a development team, both in small and hardly mangeable numbers (thank God for Agile!). Javascript is my primary programming language, a.k.a. TypeScript without the safety nets. React and React-Native are my go-to front-end frameworks (libraries?). Of course I'm quite handy with CSS3 and HTML5 as well. I absolutely love using NextJS for SSR, I think it's currently the best at what it does out there. I'm most happy creating back-end apps using Node and Java, especially with GraphQL thrown in the mix to make API calls more streamlined. Serverless is the way to go for me, but you can never go wrong with Containers. Outside of work, I'm an easy going, and fun loving fella. I love dogs (especially my buddy Apollo here 👈), and am also quite the adrenaline junkie. I compete in triathlons/multisport to keep myself fit and could never pass up an opportunity to climb a mountain, ride some waves, or jump off of a plane.",
+    "section_name": {
+      "about": "über mich",
+      "projects": "Projekte",
+      "mini_projects": "Kleiner Projekte",
+      "skills": "Fähigkeiten",
+      "experience": "Erfahrung"
+    },
+    "react_label": "This site is made with"
+  },
+  "projects": [
+    {
+      "title": "The Plate",
+      "startDate": "2021",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "InnoWell",
+      "startDate": "2021",
+      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Starpay",
+      "startDate": "2015",
+      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "mini_projects": [
+    {
+      "title": "Mini Animal Shelter",
+      "startDate": "2020",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Mini Photography",
+      "startDate": "2018",
+      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Mini 3D Object Viewer",
+      "startDate": "2015",
+      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "The Plate",
+      "title": "Front-end Developer",
+      "years": "09.2021 - 12.2021",
+      "mainTech": [
+        "React Native"
+      ],
+      "technologies": [
+        "Redux",
+        "Symfony",
+        "JavaScript",
+        "CSS",
+        "Docker",
+        "Firebase",
+        "Git",
+        "MySQL"
+      ]
+    },
+    {
+      "company": "Reinteractive",
+      "title": "Front-end Devleoper",
+      "years": "05.2021 - 08.2021",
+      "mainTech": [
+        "React"
+      ],
+      "technologies": [
+        "Redux",
+        "Relay",
+        "React-Fela",
+        "Material UI",
+        "Ruby on Rails",
+        "JavaScript",
+        "CSS",
+        "GraphQL",
+        "Docker",
+        "Git",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "company": "Starpay",
+      "title": "Full Stack Devleoper",
+      "years": "10.2019 - 01.2020",
+      "mainTech": [
+        "Angular", "Java", "React"
+      ],
+      "technologies": [
+        "REST API",
+        "Spring Boot",
+        "JavaScript",
+        "CSS",
+        "AWS",
+        "Git",
+        "MySQL"
+      ]
+    },
+    {
+      "company": "Freelance",
+      "title": "Full Stack Developer",
+      "years": "06.2015 - Present",
+      "mainTech": [
+        "React", "React Native", "Node", "Express"
+      ],
+      "technologies": [
+        "React",
+        "React Native",
+        "Node",
+        "Express",
+        "Redux",
+        "NextJS",
+        "Material UI",
+        "Bootstrap",
+        "JavaScript",
+        "CSS",
+        "SASS",
+        "GraphQL",
+        "Git",
+        "Java",
+        "Spring Boot",
+        "MongoDB",
+        "MySQL",
+        "Oracle DB",
+        "MS SQL Server",
+        "PostgreSQL",
+        "Neo4j",
+        "Heroku",
+        "AWS",
+        "Google Cloud Platform",
+        "Docker"
+      ]
+    },
+    {
+      "company": "Wells Fargo",
+      "title": "Lead Devleoper",
+      "years": "09.2015 - 10.2020",
+      "mainTech": [
+        "Java", "JavaScript", "ColdFusion"
+      ],
+      "technologies": [
+        "REST API",
+        "Spring Boot",
+        "jQuery",
+        "ExtJS",
+        "CSS",
+        "MS Azure",
+        "Jenkins",
+        "Git",
+        "MS SQL Server"
+      ]
+    },
+    {
+      "company": "INFOR",
+      "title": "Lead Developer",
+      "years": "05.2010 - 08.2015",
+      "mainTech": [
+        "Java", "JavaScript", "JSF"
+      ],
+      "technologies": [
+        "JSP",
+        "REST API",
+        "Spring",
+        "jQuery",
+        "CSS",
+        "ANT",
+        "Hibernate",
+        "IBM Websphere",
+        "Tomcat",
+        "SVN",
+        "Accurev",
+        "Oracle DB"
+      ]
+    },
+    {
+      "company": "Genpact",
+      "title": "Senior Software Developer",
+      "years": "06.2008 - 04.2010",
+      "mainTech": [
+        "Java", "JavaScript", "JSP"
+      ],
+      "technologies": [
+        "Struts 2",
+        "Spring",
+        "Spring DAO",
+        "Spring MVC",
+        "jQuery",
+        "CSS",
+        "SOAP API",
+        "Maven",
+        "Hibernate",
+        "IBM Websphere",
+        "JBoss",
+        "Weblogic",
+        "Tomcat",
+        "SVN",
+        "CVS",
+        "Oracle DB"
+      ]
+    },
+    {
+      "company": "Solegy LLC",
+      "title": "Software Developer",
+      "years": "06.2008 - 04.2010",
+      "mainTech": [
+        "Java", "JavaScript"
+      ],
+      "technologies": [
+        "JSP",
+        "SOAP API",
+        "Spring",
+        "CSS",
+        "ANT",
+        "Hibernate",
+        "iBatis",
+        "Tomcat",
+        "CVS",
+        "IBM Websphere",
+        "Oracle DB"
+      ]
+    },
+    {
+      "company": "Trend Micro",
+      "title": "Jr Antivirus Engineer",
+      "years": "03.2008 - 06.2008",
+      "mainTech": [
+        "Assembly Language"
+      ],
+      "technologies": [
+        "Antivirus",
+        "Malware"
+      ]
+    }
+  ]
+}
