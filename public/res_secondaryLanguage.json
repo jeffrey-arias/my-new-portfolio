@@ -4,47 +4,75 @@
     "description": "👋 I am Jeffrey Arias, a mobile and web software developer. I have more than 14 years of software developmenmt experience, both corporate and freelance. I also have experience in leading a development team, both in small and hardly mangeable numbers (thank God for Agile!). Javascript is my primary programming language, a.k.a. TypeScript without the safety nets. React and React-Native are my go-to front-end frameworks (libraries?). Of course I'm quite handy with CSS3 and HTML5 as well. I absolutely love using NextJS for SSR, I think it's currently the best at what it does out there. I'm most happy creating back-end apps using Node and Java, especially with GraphQL thrown in the mix to make API calls more streamlined. Serverless is the way to go for me, but you can never go wrong with Containers. Outside of work, I'm an easy going, and fun loving fella. I love dogs (especially my buddy Apollo here 👈), and am also quite the adrenaline junkie. I compete in triathlons/multisport to keep myself fit and could never pass up an opportunity to climb a mountain, ride some waves, or jump off of a plane.",
     "section_name": {
       "about": "über mich",
-      "projects": "Projekte",
-      "mini_projects": "Kleiner Projekte",
+      "projects": "React Projekte",
+      "mini_projects": "Kleiner React Projekte",
       "skills": "Fähigkeiten",
       "experience": "Erfahrung"
     },
-    "react_label": "This site is made with"
+    "react_label": "Diese Seite ist gemacht mit"
   },
   "projects": [
     {
       "title": "The Plate",
       "startDate": "2021",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "description": "A mobile and web social media platform for cooks and users to share culinary recipes and experiences.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/projects/theplate/landing.png",
+        "images/projects/theplate/p1.png",
+        "images/projects/theplate/p2.png",
+        "images/projects/theplate/p3.png",
+        "images/projects/theplate/p4.png"
       ],
-      "url": "",
+      "role": "Front-end developer",
+      "url": "https://www.theplate.org",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-react-plain",
+          "name": "React Native"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-symfony-original",
+          "name": "Symfony"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        },
+        {
+          "class": "devicon-docker-plain",
+          "name": "Docker"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "Firebase"
+        },
+        {
+          "class": "devicon-github-original",
+          "name": "GitHub"
+        },
+        {
+          "class": "devicon-figma-plain",
+          "name": "Figma"
         }
       ]
     },
     {
       "title": "InnoWell",
       "startDate": "2021",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "description": "A mental health and well being tracking and consultation platform for patients, clinicians and organizations.",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/projects/innowell/landing.png",
+        "images/projects/innowell/p1.png",
+        "images/projects/innowell/p2.png",
+        "images/projects/innowell/p3.png",
+        "images/projects/innowell/p4.png"
       ],
-      "url": "https://github.com",
+      "role": "Front-end developer",
+      "url": "https://vimeo.com/321655380",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -53,19 +81,58 @@
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
-        }
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "MaterialUI"
+        },
+        {
+          "class": "devicon-graphql-plain",
+          "name": "GraphQL"
+        },
+        {
+          "class": "devicon-rails-plain",
+          "name": "Ruby on Rails"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        },
+        {
+          "class": "devicon-docker-plain",
+          "name": "Docker"
+        },
+        {
+          "class": "devicon-github-original",
+          "name": "GitHub"
+        },
+        {
+          "class": "devicon-illustrator-plain",
+          "name": "AI"
+        }          
       ]
     },
     {
       "title": "Starpay",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "startDate": "2019",
+      "description": "A mobile wallet and muti-tier payment platform.",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/projects/starpay/landing.png",
+        "images/projects/starpay/p1.png",
+        "images/projects/starpay/p2.png",
+        "images/projects/starpay/p3.png"
       ],
-      "url": "https://github.com",
+      "role": "Full-stack developer",
+      "url": "https://play.google.com/store/apps/details?id=ph.com.starpay.wallet&hl=en&gl=US",
       "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
         {
           "class": "devicon-angularjs-plain",
           "name": "Angular"
@@ -75,15 +142,43 @@
           "name": "TypeScript"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        },
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-spring-plain",
+          "name": "Spring Boot"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        },
+        {
+          "class": "devicon-docker-plain",
+          "name": "Docker"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "Firebase"
+        },
+        {
+          "class": "devicon-amazonwebservices-original",
+          "name": "AWS"
+        },
+        {
+          "class": "devicon-gitlab-plain",
+          "name": "GitLab"
         }
       ]
     }
   ],
   "mini_projects": [
     {
-      "title": "Mini Animal Shelter",
+      "title": "React File Merger",
       "startDate": "2020",
       "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
       "images": [
@@ -93,6 +188,10 @@
       "url": "",
       "technologies": [
         {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
           "class": "devicon-angularjs-plain",
           "name": "Angular"
         },
@@ -101,13 +200,13 @@
           "name": "TypeScript"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-spring-plain",
+          "name": "Spring Boot"
         }
       ]
     },
     {
-      "title": "Mini Photography",
+      "title": "React NextJS Woof App",
       "startDate": "2018",
       "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
       "images": [
@@ -127,7 +226,7 @@
       ]
     },
     {
-      "title": "Mini 3D Object Viewer",
+      "title": "React GraphQL Pokedex",
       "startDate": "2015",
       "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
       "images": [

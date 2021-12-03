@@ -121,7 +121,7 @@ class App extends Component {
           </div>
           <div className="label">
           <span>
-              This site is made with <Icon
+              {this.state?.resumeData?.basic_info?.react_label} <Icon
                     icon={reactIcon}
                     style={{ fontSize: "200%",}}
                   />

@@ -10,7 +10,8 @@ class ProjectDetailsModal extends Component {
       const technologies = this.props.data.technologies;
       const images = this.props.data.images;
       var title = this.props.data.title;
-      var description = this.props.data.description;
+      var description = this.props.data.description+"\n";
+      var role = this.props.data.role+"\n";
       var url = this.props.data.url;
       if (this.props.data.technologies) {
         var tech = technologies.map((icons, i) => {
@@ -30,7 +31,7 @@ class ProjectDetailsModal extends Component {
         });
         if (this.props.data.images) {
           var img = images.map((elem, i) => {
-            return <div key={i} data-src={elem} />;
+            return <div key={i} data-src={process.env.PUBLIC_URL+"/"+elem} className="slider-image-content"/>;
           });
         }
       }
@@ -89,11 +90,13 @@ class ProjectDetailsModal extends Component {
                   <i
                     className="fas fa-external-link-alt"
                     style={{ marginLeft: "10px" }}
-                  ></i>
+                  >( {url} )</i>
                 </a>
               ) : null}
             </h3>
-            <p className="modal-description">{description}</p>
+            <p className="modal-description" style={{ whiteSpace: 'pre-wrap' }}>
+              {description}Role: {role}
+            </p>
             <div className="col-md-12 text-center">
               <ul className="list-inline mx-auto">{tech}</ul>
             </div>
