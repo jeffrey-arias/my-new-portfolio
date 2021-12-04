@@ -178,74 +178,141 @@
   ],
   "mini_projects": [
     {
-      "title": "React File Merger",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "title": "React-Redux XLS Merger",
+      "startDate": "2018",
+      "description": "A React responsive web application that pulls data from a Java-Spring Boot REST API and renders a multi-tier graphical interface. Also has an export to PDF function",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/projects/xlsmerger/p1.png",
+        "images/projects/xlsmerger/p1.png",
+        "images/projects/xlsmerger/p2.png"
       ],
-      "url": "",
+      "url": "https://github.com/jeffrey-arias/xls-merger-react",
+      "role": "Full-stack developer",
       "technologies": [
         {
           "class": "devicon-react-original",
           "name": "React"
         },
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-redux-original",
+          "name": "Redux-Thunk"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-materialui-plain",
+          "name": "MaterialUI"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-sass-original",
+          "name": "Sass"
+        },
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
         },
         {
           "class": "devicon-spring-plain",
           "name": "Spring Boot"
+        },
+        {
+          "class": "devicon-github-original",
+          "name": "GitHub"
         }
       ]
     },
     {
       "title": "React NextJS Woof App",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "startDate": "2020",
+      "description": "A responsive Typescript app that implements server-side rendering through NextJS. ",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/projects/woof/p1.png",
+        "images/projects/woof/p2.png",
+        "images/projects/woof/p3.png",
+        "images/projects/woof/p4.png",
+        "images/projects/woof/p9.png",
+        "images/projects/woof/p5.png",
+        "images/projects/woof/p6.png",
+        "images/projects/woof/p7.png",
+        "images/projects/woof/p8.png"
       ],
-      "url": "https://github.com",
+      "url": "https://github.com/jeffrey-arias/nextjs-woof-app",
+      "role": "Full-stack developer",
       "technologies": [
         {
           "class": "devicon-react-original",
           "name": "React"
         },
         {
+          "class": "devicon-materialui-plain",
+          "name": "MaterialUI"
+        },
+        {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
-        }
-      ]
-    },
-    {
-      "title": "React GraphQL Pokedex",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-      "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
         },
         {
           "class": "devicon-typescript-plain",
           "name": "TypeScript"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-jest-plain",
+          "name": "Jest+Enzyme"
+        },
+        {
+          "class": "devicon-nextjs-original-wordmark",
+          "name": "NextJS"
+        },
+        {
+          "class": "devicon-sequelize-plain",
+          "name": "Sequelize"
+        },
+        {
+          "class": "devicon-docker-plain",
+          "name": "Docker"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        },
+        {
+          "class": "devicon-github-original",
+          "name": "GitHub"
+        }
+      ]
+    },
+    {
+      "title": "React GraphQL Pokedex",
+      "startDate": "2021",
+      "description": "My own web app version of the famous Pokedex. Uses Apollo-GraphQL to retrieve data from a public API.",
+      "role": "Front-end developer",
+      "images": [
+        "images/projects/pokedex/p1.png",
+        "images/projects/pokedex/p2.png"
+      ],
+      "url": "https://github.com/jeffrey-arias/pokedex-react-graphql",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "MaterialUI"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-graphql-plain",
+          "name": "GraphQL"
+        },
+        {
+          "class": "devicon-github-original",
+          "name": "GitHub"
         }
       ]
     }
