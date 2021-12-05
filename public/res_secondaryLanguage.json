@@ -15,7 +15,7 @@
     {
       "title": "The Plate",
       "startDate": "2021",
-      "description": "A mobile and web social media platform for cooks and users to share culinary recipes and experiences.",
+      "description": "A mobile and web social media platform for cooks and users to share culinary recipes and experiences. This is a startup company.",
       "images": [
         "images/projects/theplate/landing.png",
         "images/projects/theplate/p1.png",
@@ -33,6 +33,10 @@
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
+        },
+        {
+          "class": "devicon-jest-plain",
+          "name": "Jest+Enzyme"
         },
         {
           "class": "devicon-symfony-original",
@@ -63,7 +67,7 @@
     {
       "title": "InnoWell",
       "startDate": "2021",
-      "description": "A mental health and well being tracking and consultation platform for patients, clinicians and organizations. This is a startup company.",
+      "description": "A mental health and well being tracking and consultation platform for patients, clinicians and organizations.",
       "images": [
         "images/projects/innowell/landing.png",
         "images/projects/innowell/p1.png",
@@ -81,6 +85,10 @@
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
+        },
+        {
+          "class": "devicon-jest-plain",
+          "name": "Jest+Enzyme"
         },
         {
           "class": "devicon-materialui-plain",
@@ -132,6 +140,10 @@
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
+        },
+        {
+          "class": "devicon-jest-plain",
+          "name": "Jest+Enzyme"
         },
         {
           "class": "devicon-angularjs-plain",
@@ -390,6 +402,7 @@
         "NextJS",
         "Material UI",
         "Bootstrap",
+        "Sequelize",
         "JavaScript",
         "CSS",
         "SASS",
