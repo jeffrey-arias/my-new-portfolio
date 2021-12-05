@@ -64,8 +64,33 @@
           "level": "65"
         },
         {
+          "class": "devicon-sequelize-plain",
+          "name": "Sequelize"
+        },
+        {
+          "class": "devicon-jest-plain",
+          "name": "Jest+Enzyme"
+        },
+        {
+          "class": "devicon-npm-original-wordmark",
+          "name": "NPM"
+        },
+        {
+          "class": "devicon-yarn-plain",
+          "name": "Yarn"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "Jquery"
+        },
+        {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "Markdown",
+          "class": "devicon-markdown-original",
           "level": "95"
         },
         {
@@ -188,7 +213,13 @@
           "name": "Figma",
           "class": "devicon-figma-plain",
           "level": "60"
+        },
+        {
+          "name": "Adobe Illustrator",
+          "class": "devicon-illustrator-plain",
+          "level": "60"
         }
+        
       ]
     }
   }
