@@ -120,7 +120,7 @@ class App extends Component {
               id={window.$secondaryLanguageIconId}
             ></span>
           </div>
-          <div className="label">
+          <div className="label" style={{margin: "50px 20px 20px 20px"}}>
           <span>
               {this.state?.resumeData?.basic_info?.react_label} <Icon
                     icon={reactIcon}
