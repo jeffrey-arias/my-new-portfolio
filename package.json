@@ -1,6 +1,6 @@
 {
-  "name": "react-frontend-dev-portfolio",
-  "homepage": "http://jeffrey-arias.github.io/my-new-portfolio",
+  "name": "my-new-portfolio",
+  "homepage": "https://jeffrey-arias.github.io/my-new-portfolio",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
