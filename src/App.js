@@ -85,6 +85,7 @@ class App extends Component {
   render() {
     return (
       <div>
+        <div style={{backgroundColor: '#9BB7D4'}}>
         <Header sharedData={this.state.sharedData.basic_info} />
         <div className="col-md-12 mx-auto text-center language">
           <div
@@ -126,6 +127,7 @@ class App extends Component {
                     style={{ fontSize: "200%",}}
                   />
           </span>
+        </div>
         </div>
         </div>
         <About
