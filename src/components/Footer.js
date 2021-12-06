@@ -21,6 +21,11 @@ class Footer extends Component {
 
           <div className="copyright py-4 text-center">
             <div className="container">
+            <small>
+                <p>
+                <a href={process.env.PUBLIC_URL+"/docs/JeffreyEArias_resume.pdf"} download>Download resume</a>
+                </p>
+              </small>
               <small>
                 Copyright &copy;{" "}
                 {this.props.sharedBasicInfo
