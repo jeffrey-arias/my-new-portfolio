@@ -13,6 +13,65 @@
   },
   "projects": [
     {
+      "title": "Cloud Monitor AI",
+      "startDate": "2021",
+      "description": "Cloud resource monitoring App, monitors your cloud consumption costs and looks for cost-saving opportunities.",
+      "images": [
+        "images/projects/cloudmonitorai/landing.png",
+        "images/projects/cloudmonitorai/p1.png",
+        "images/projects/cloudmonitorai/p2.png",
+        "images/projects/cloudmonitorai/p3.png"
+      ],
+      "role": "Full-stack developer",
+      "url": "https://cloudmonitor.ai/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-redux-original",
+          "name": "MobX"
+        },
+        {
+          "class": "devicon-jest-plain",
+          "name": "Jest+Enzyme"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "MaterialUI"
+        },
+        {
+          "class": "devicon-dotnetcore-plain",
+          "name": ".Net Core"
+        },
+        {
+          "class": "devicon-microsoftsqlserver-plain",
+          "name": "MS SQL Server"
+        },
+        {
+          "class": "devicon-azure-plain",
+          "name": "Azure"
+        },
+        {
+          "class": "devicon-googlecloud-plain",
+          "name": "Google Cloud"
+        },
+        {
+          "class": "devicon-amazonwebservices-original",
+          "name": "AWS"
+        },
+        {
+          "class": "devicon-github-original",
+          "name": "GitHub"
+        }
+      ]
+    },
+    {
       "title": "The Plate",
       "startDate": "2021",
       "description": "A mobile and web social media platform for cooks and users to share culinary recipes and experiences. This is a startup company.",
@@ -330,6 +389,27 @@
     }
   ],
   "experience": [
+    {
+      "company": "Cloud Monitor AI",
+      "title": "Full-stack Developer",
+      "years": "12.2021 - present",
+      "mainTech": [
+        "React",
+        ".Net",
+        "TypeScript"
+      ],
+      "technologies": [
+        "MobX",
+        "Material UI",
+        "Formik",
+        "CSS",
+        "MS Azure",
+        "Google Cloud",
+        "AWS",
+        "Git",
+        "MSSQL"
+      ]
+    },
     {
       "company": "The Plate",
       "title": "Front-end Developer",
