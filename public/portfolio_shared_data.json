@@ -129,6 +129,11 @@
           "level": "85"
         },
         {
+          "name": ".NET Core",
+          "class": "devicon-dotnetcore-plain",
+          "level": "85"
+        },
+        {
           "name": "Smfony PHP",
           "class": "devicon-symfony-original",
           "level": "85"
@@ -176,6 +181,11 @@
         {
           "name": "Docker",
           "class": "devicon-docker-plain",
+          "level": "60"
+        },
+        {
+          "name": "MS Azure",
+          "class": "devicon-azure-plain",
           "level": "60"
         },
         {
