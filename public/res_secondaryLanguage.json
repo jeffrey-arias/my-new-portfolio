@@ -1,606 +1,581 @@
 {
-  "basic_info": {
-    "description_header": "Hi",
-    "description": "👋 I am Jeffrey Arias, a mobile and web software developer. I have more than 14 years of software developmenmt experience, both corporate and freelance. I also have experience in leading a development team, small and in hardly mangeable numbers (thank God for Agile!). Javascript is my primary programming language, a.k.a. TypeScript without the safety nets. React and React-Native are my go-to front-end frameworks (libraries?). Of course I'm quite handy with CSS3 and HTML5 as well. I absolutely love using NextJS for SSR, I think it's currently the best at what it does out there. I'm most happy creating back-end apps using Node and Java, especially with GraphQL thrown in the mix to make API calls more streamlined. Serverless is the way to go for me, but you can never go wrong with Containers. Outside of work, I'm an easy going, and fun loving fella. I love dogs (especially my buddy Apollo here 👈), and am also quite the adrenaline junkie. I compete in triathlons/multisport to keep myself fit and could never pass up an opportunity to climb a mountain or hike a scenic route. All these being said, there's nothing that I love more than spending quality time with my family and friends, especially with my most adorable daughter.",
-    "section_name": {
-      "about": "über mich",
-      "projects": "React Projekte",
-      "mini_projects": "Kleiner React Projekte",
-      "skills": "Fähigkeiten",
-      "experience": "Erfahrung"
-    },
-    "react_label": "Diese Seite ist gemacht mit"
-  },
-  "projects": [
-    {
-      "title": "Cloud Monitor AI",
-      "startDate": "2021",
-      "description": "Cloud resource monitoring App, monitors your cloud consumption costs and looks for cost-saving opportunities.",
-      "images": [
-        "images/projects/cloudmonitorai/landing.png",
-        "images/projects/cloudmonitorai/p1.png",
-        "images/projects/cloudmonitorai/p2.png",
-        "images/projects/cloudmonitorai/p3.png"
-      ],
-      "role": "Full-stack developer",
-      "url": "https://cloudmonitor.ai/",
-      "technologies": [
-        {
-          "class": "devicon-react-plain",
-          "name": "React"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-redux-original",
-          "name": "MobX"
-        },
-        {
-          "class": "devicon-jest-plain",
-          "name": "Jest+Enzyme"
-        },
-        {
-          "class": "devicon-materialui-plain",
-          "name": "MaterialUI"
-        },
-        {
-          "class": "devicon-dotnetcore-plain",
-          "name": ".Net Core"
-        },
-        {
-          "class": "devicon-microsoftsqlserver-plain",
-          "name": "MS SQL Server"
-        },
-        {
-          "class": "devicon-azure-plain",
-          "name": "Azure"
-        },
-        {
-          "class": "devicon-googlecloud-plain",
-          "name": "Google Cloud"
-        },
-        {
-          "class": "devicon-amazonwebservices-original",
-          "name": "AWS"
-        },
-        {
-          "class": "devicon-github-original",
-          "name": "GitHub"
-        }
-      ]
-    },
-    {
-      "title": "The Plate",
-      "startDate": "2021",
-      "description": "A mobile and web social media platform for cooks and users to share culinary recipes and experiences. This is a startup company.",
-      "images": [
-        "images/projects/theplate/landing.png",
-        "images/projects/theplate/p1.png",
-        "images/projects/theplate/p2.png",
-        "images/projects/theplate/p3.png",
-        "images/projects/theplate/p4.png"
-      ],
-      "role": "Front-end developer",
-      "url": "https://www.theplate.org",
-      "technologies": [
-        {
-          "class": "devicon-react-plain",
-          "name": "React Native"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-jest-plain",
-          "name": "Jest+Enzyme"
-        },
-        {
-          "class": "devicon-symfony-original",
-          "name": "Symfony"
-        },
-        {
-          "class": "devicon-mysql-plain",
-          "name": "MySQL"
-        },
-        {
-          "class": "devicon-docker-plain",
-          "name": "Docker"
-        },
-        {
-          "class": "devicon-firebase-plain",
-          "name": "Firebase"
-        },
-        {
-          "class": "devicon-github-original",
-          "name": "GitHub"
-        },
-        {
-          "class": "devicon-figma-plain",
-          "name": "Figma"
-        }
-      ]
-    },
-    {
-      "title": "InnoWell",
-      "startDate": "2021",
-      "description": "A mental health and well being tracking and consultation platform for patients, clinicians and organizations.",
-      "images": [
-        "images/projects/innowell/landing.png",
-        "images/projects/innowell/p1.png",
-        "images/projects/innowell/p2.png",
-        "images/projects/innowell/p3.png",
-        "images/projects/innowell/p4.png"
-      ],
-      "role": "Front-end developer",
-      "url": "https://vimeo.com/321655380",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-jest-plain",
-          "name": "Jest+Enzyme"
-        },
-        {
-          "class": "devicon-materialui-plain",
-          "name": "MaterialUI"
-        },
-        {
-          "class": "devicon-graphql-plain",
-          "name": "GraphQL"
-        },
-        {
-          "class": "devicon-rails-plain",
-          "name": "Ruby on Rails"
-        },
-        {
-          "class": "devicon-postgresql-plain",
-          "name": "PostgreSQL"
-        },
-        {
-          "class": "devicon-docker-plain",
-          "name": "Docker"
-        },
-        {
-          "class": "devicon-github-original",
-          "name": "GitHub"
-        },
-        {
-          "class": "devicon-illustrator-plain",
-          "name": "AI"
-        }          
-      ]
-    },
-    {
-      "title": "Starpay",
-      "startDate": "2019",
-      "description": "A mobile wallet and muti-tier payment platform. This is a startup company.",
-      "images": [
-        "images/projects/starpay/landing.png",
-        "images/projects/starpay/p1.png",
-        "images/projects/starpay/p2.png",
-        "images/projects/starpay/p3.png"
-      ],
-      "role": "Full-stack developer",
-      "url": "https://play.google.com/store/apps/details?id=ph.com.starpay.wallet&hl=en&gl=US",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-jest-plain",
-          "name": "Jest+Enzyme"
-        },
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-nodejs-plain",
-          "name": "NodeJS"
-        },
-        {
-          "class": "devicon-java-plain",
-          "name": "Java"
-        },
-        {
-          "class": "devicon-spring-plain",
-          "name": "Spring Boot"
-        },
-        {
-          "class": "devicon-mysql-plain",
-          "name": "MySQL"
-        },
-        {
-          "class": "devicon-docker-plain",
-          "name": "Docker"
-        },
-        {
-          "class": "devicon-firebase-plain",
-          "name": "Firebase"
-        },
-        {
-          "class": "devicon-amazonwebservices-original",
-          "name": "AWS"
-        },
-        {
-          "class": "devicon-gitlab-plain",
-          "name": "GitLab"
-        }
-      ]
-    }
-  ],
-  "mini_projects": [
-    {
-      "title": "React-Redux XLS Merger",
-      "startDate": "2018",
-      "description": "A React responsive web application that pulls data from a Java-Spring Boot REST API and renders a multi-tier graphical interface. Also has an export to PDF function",
-      "images": [
-        "images/projects/xlsmerger/p1.png",
-        "images/projects/xlsmerger/p1.png",
-        "images/projects/xlsmerger/p2.png"
-      ],
-      "url": "https://github.com/jeffrey-arias/xls-merger-react",
-      "role": "Full-stack developer",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
-        {
-          "class": "devicon-redux-original",
-          "name": "Redux-Thunk"
-        },
-        {
-          "class": "devicon-materialui-plain",
-          "name": "MaterialUI"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-sass-original",
-          "name": "Sass"
-        },
-        {
-          "class": "devicon-java-plain",
-          "name": "Java"
-        },
-        {
-          "class": "devicon-spring-plain",
-          "name": "Spring Boot"
-        },
-        {
-          "class": "devicon-github-original",
-          "name": "GitHub"
-        }
-      ]
-    },
-    {
-      "title": "React NextJS Woof App",
-      "startDate": "2020",
-      "description": "A responsive Typescript app that implements server-side rendering through NextJS. ",
-      "images": [
-        "images/projects/woof/p1.png",
-        "images/projects/woof/p2.png",
-        "images/projects/woof/p3.png",
-        "images/projects/woof/p4.png",
-        "images/projects/woof/p9.png",
-        "images/projects/woof/p5.png",
-        "images/projects/woof/p6.png",
-        "images/projects/woof/p7.png",
-        "images/projects/woof/p8.png"
-      ],
-      "url": "https://github.com/jeffrey-arias/nextjs-woof-app",
-      "role": "Full-stack developer",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
-        {
-          "class": "devicon-materialui-plain",
-          "name": "MaterialUI"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-jest-plain",
-          "name": "Jest+Enzyme"
-        },
-        {
-          "class": "devicon-nextjs-original-wordmark",
-          "name": "NextJS"
-        },
-        {
-          "class": "devicon-sequelize-plain",
-          "name": "Sequelize"
-        },
-        {
-          "class": "devicon-docker-plain",
-          "name": "Docker"
-        },
-        {
-          "class": "devicon-postgresql-plain",
-          "name": "PostgreSQL"
-        },
-        {
-          "class": "devicon-github-original",
-          "name": "GitHub"
-        }
-      ]
-    },
-    {
-      "title": "React GraphQL Pokedex",
-      "startDate": "2021",
-      "description": "My own web app version of the famous Pokedex. Uses Apollo-GraphQL to retrieve data from a public API.",
-      "role": "Front-end developer",
-      "images": [
-        "images/projects/pokedex/p1.png",
-        "images/projects/pokedex/p2.png"
-      ],
-      "url": "https://github.com/jeffrey-arias/pokedex-react-graphql",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
-        {
-          "class": "devicon-materialui-plain",
-          "name": "MaterialUI"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-graphql-plain",
-          "name": "GraphQL"
-        },
-        {
-          "class": "devicon-github-original",
-          "name": "GitHub"
-        }
-      ]
-    }
-  ],
-  "experience": [
-    {
-      "company": "Cloud Monitor AI",
-      "title": "Full-stack Developer",
-      "years": "12.2021 - present",
-      "mainTech": [
-        "React",
-        ".Net",
-        "TypeScript"
-      ],
-      "technologies": [
-        "MobX",
-        "Material UI",
-        "Formik",
-        "CSS",
-        "MS Azure",
-        "Google Cloud",
-        "AWS",
-        "Git",
-        "MSSQL"
-      ]
-    },
-    {
-      "company": "The Plate",
-      "title": "Front-end Developer",
-      "years": "09.2021 - 12.2021",
-      "mainTech": [
-        "React Native"
-      ],
-      "technologies": [
-        "Redux",
-        "Symfony",
-        "JavaScript",
-        "CSS",
-        "Docker",
-        "Firebase",
-        "Git",
-        "MySQL"
-      ]
-    },
-    {
-      "company": "Reinteractive",
-      "title": "Front-end Devleoper",
-      "years": "05.2021 - 08.2021",
-      "mainTech": [
-        "React"
-      ],
-      "technologies": [
-        "Redux",
-        "Relay",
-        "React-Fela",
-        "Material UI",
-        "Ruby on Rails",
-        "JavaScript",
-        "CSS",
-        "GraphQL",
-        "Docker",
-        "Git",
-        "PostgreSQL"
-      ]
-    },
-    {
-      "company": "Starpay",
-      "title": "Full Stack Devleoper",
-      "years": "10.2019 - 01.2020",
-      "mainTech": [
-        "Angular", "Java", "React"
-      ],
-      "technologies": [
-        "REST API",
-        "Spring Boot",
-        "JavaScript",
-        "CSS",
-        "AWS",
-        "Git",
-        "MySQL"
-      ]
-    },
-    {
-      "company": "Freelance",
-      "title": "Full Stack Developer",
-      "years": "06.2015 - Present",
-      "mainTech": [
-        "React", "React Native", "Node", "Express"
-      ],
-      "technologies": [
-        "React",
-        "React Native",
-        "Node",
-        "Express",
-        "Redux",
-        "NextJS",
-        "Material UI",
-        "Bootstrap",
-        "Sequelize",
-        "JavaScript",
-        "CSS",
-        "SASS",
-        "GraphQL",
-        "Git",
-        "Java",
-        "Spring Boot",
-        "MongoDB",
-        "MySQL",
-        "Oracle DB",
-        "MS SQL Server",
-        "PostgreSQL",
-        "Neo4j",
-        "Heroku",
-        "AWS",
-        "Google Cloud Platform",
-        "Docker"
-      ]
-    },
-    {
-      "company": "Wells Fargo",
-      "title": "Lead Devleoper",
-      "years": "09.2015 - 10.2020",
-      "mainTech": [
-        "Java", "JavaScript", "ColdFusion"
-      ],
-      "technologies": [
-        "REST API",
-        "Spring Boot",
-        "jQuery",
-        "ExtJS",
-        "CSS",
-        "MS Azure",
-        "Jenkins",
-        "Git",
-        "MS SQL Server"
-      ]
-    },
-    {
-      "company": "INFOR",
-      "title": "Lead Developer",
-      "years": "05.2010 - 08.2015",
-      "mainTech": [
-        "Java", "JavaScript", "JSF"
-      ],
-      "technologies": [
-        "JSP",
-        "REST API",
-        "Spring",
-        "jQuery",
-        "CSS",
-        "ANT",
-        "Hibernate",
-        "IBM Websphere",
-        "Tomcat",
-        "SVN",
-        "Accurev",
-        "Oracle DB"
-      ]
-    },
-    {
-      "company": "Genpact",
-      "title": "Senior Software Developer",
-      "years": "06.2008 - 04.2010",
-      "mainTech": [
-        "Java", "JavaScript", "JSP"
-      ],
-      "technologies": [
-        "Struts 2",
-        "Spring",
-        "Spring DAO",
-        "Spring MVC",
-        "jQuery",
-        "CSS",
-        "SOAP API",
-        "Maven",
-        "Hibernate",
-        "IBM Websphere",
-        "JBoss",
-        "Weblogic",
-        "Tomcat",
-        "SVN",
-        "CVS",
-        "Oracle DB"
-      ]
-    },
-    {
-      "company": "Solegy LLC",
-      "title": "Software Developer",
-      "years": "06.2008 - 04.2010",
-      "mainTech": [
-        "Java", "JavaScript"
-      ],
-      "technologies": [
-        "JSP",
-        "SOAP API",
-        "Spring",
-        "CSS",
-        "ANT",
-        "Hibernate",
-        "iBatis",
-        "Tomcat",
-        "CVS",
-        "IBM Websphere",
-        "Oracle DB"
-      ]
-    },
-    {
-      "company": "Trend Micro",
-      "title": "Jr Antivirus Engineer",
-      "years": "03.2008 - 06.2008",
-      "mainTech": [
-        "Assembly Language"
-      ],
-      "technologies": [
-        "Antivirus",
-        "Malware"
-      ]
-    }
-  ]
+	"basic_info": {
+		"description_header": "Hi",
+		"description": "👋 I am Jeffrey Arias, a mobile and web software developer. I have more than 14 years of software developmenmt experience, both corporate and freelance. I also have experience in leading a development team, small and in hardly mangeable numbers (thank God for Agile!). Javascript is my primary programming language, a.k.a. TypeScript without the safety nets. React and React-Native are my go-to front-end frameworks (libraries?). Of course I'm quite handy with CSS3 and HTML5 as well. I absolutely love using NextJS for SSR, I think it's currently the best at what it does out there. I'm most happy creating back-end apps using Node and Java, especially with GraphQL thrown in the mix to make API calls more streamlined. Serverless is the way to go for me, but you can never go wrong with Containers. Outside of work, I'm an easy going, and fun loving fella. I love dogs (especially my buddy Apollo here 👈), and am also quite the adrenaline junkie. I compete in triathlons/multisport to keep myself fit and could never pass up an opportunity to climb a mountain or hike a scenic route. All these being said, there's nothing that I love more than spending quality time with my family and friends, especially with my most adorable daughter.",
+		"section_name": {
+			"about": "über mich",
+			"projects": "React Projekte",
+			"mini_projects": "Kleiner React Projekte",
+			"skills": "Fähigkeiten",
+			"experience": "Erfahrung"
+		},
+		"react_label": "Diese Seite ist gemacht mit"
+	},
+	"projects": [
+		{
+			"title": "Cloud Monitor AI",
+			"startDate": "2021",
+			"description": "Cloud resource monitoring App, monitors your cloud consumption costs and looks for cost-saving opportunities.",
+			"images": [
+				"images/projects/cloudmonitorai/landing.png",
+				"images/projects/cloudmonitorai/p1.png",
+				"images/projects/cloudmonitorai/p2.png",
+				"images/projects/cloudmonitorai/p3.png"
+			],
+			"role": "Full-stack developer",
+			"url": "https://cloudmonitor.ai/",
+			"technologies": [
+				{
+					"class": "devicon-react-plain",
+					"name": "React"
+				},
+				{
+					"class": "devicon-typescript-plain",
+					"name": "TypeScript"
+				},
+				{
+					"class": "devicon-redux-original",
+					"name": "MobX"
+				},
+				{
+					"class": "devicon-jest-plain",
+					"name": "Jest+Enzyme"
+				},
+				{
+					"class": "devicon-materialui-plain",
+					"name": "MaterialUI"
+				},
+				{
+					"class": "devicon-dotnetcore-plain",
+					"name": ".Net Core"
+				},
+				{
+					"class": "devicon-microsoftsqlserver-plain",
+					"name": "MS SQL Server"
+				},
+				{
+					"class": "devicon-azure-plain",
+					"name": "Azure"
+				},
+				{
+					"class": "devicon-googlecloud-plain",
+					"name": "Google Cloud"
+				},
+				{
+					"class": "devicon-amazonwebservices-original",
+					"name": "AWS"
+				},
+				{
+					"class": "devicon-github-original",
+					"name": "GitHub"
+				}
+			]
+		},
+		{
+			"title": "The Plate",
+			"startDate": "2021",
+			"description": "A mobile and web social media platform for cooks and users to share culinary recipes and experiences. This is a startup company.",
+			"images": [
+				"images/projects/theplate/landing.png",
+				"images/projects/theplate/p1.png",
+				"images/projects/theplate/p2.png",
+				"images/projects/theplate/p3.png",
+				"images/projects/theplate/p4.png"
+			],
+			"role": "Front-end developer",
+			"url": "https://www.theplate.org",
+			"technologies": [
+				{
+					"class": "devicon-react-plain",
+					"name": "React Native"
+				},
+				{
+					"class": "devicon-javascript-plain",
+					"name": "JavaScript"
+				},
+				{
+					"class": "devicon-jest-plain",
+					"name": "Jest+Enzyme"
+				},
+				{
+					"class": "devicon-symfony-original",
+					"name": "Symfony"
+				},
+				{
+					"class": "devicon-mysql-plain",
+					"name": "MySQL"
+				},
+				{
+					"class": "devicon-docker-plain",
+					"name": "Docker"
+				},
+				{
+					"class": "devicon-firebase-plain",
+					"name": "Firebase"
+				},
+				{
+					"class": "devicon-github-original",
+					"name": "GitHub"
+				},
+				{
+					"class": "devicon-figma-plain",
+					"name": "Figma"
+				}
+			]
+		},
+		{
+			"title": "InnoWell",
+			"startDate": "2021",
+			"description": "A mental health and well being tracking and consultation platform for patients, clinicians and organizations.",
+			"images": [
+				"images/projects/innowell/landing.png",
+				"images/projects/innowell/p1.png",
+				"images/projects/innowell/p2.png",
+				"images/projects/innowell/p3.png",
+				"images/projects/innowell/p4.png"
+			],
+			"role": "Front-end developer",
+			"url": "https://vimeo.com/321655380",
+			"technologies": [
+				{
+					"class": "devicon-react-original",
+					"name": "React"
+				},
+				{
+					"class": "devicon-javascript-plain",
+					"name": "JavaScript"
+				},
+				{
+					"class": "devicon-jest-plain",
+					"name": "Jest+Enzyme"
+				},
+				{
+					"class": "devicon-materialui-plain",
+					"name": "MaterialUI"
+				},
+				{
+					"class": "devicon-graphql-plain",
+					"name": "GraphQL"
+				},
+				{
+					"class": "devicon-rails-plain",
+					"name": "Ruby on Rails"
+				},
+				{
+					"class": "devicon-postgresql-plain",
+					"name": "PostgreSQL"
+				},
+				{
+					"class": "devicon-docker-plain",
+					"name": "Docker"
+				},
+				{
+					"class": "devicon-github-original",
+					"name": "GitHub"
+				},
+				{
+					"class": "devicon-illustrator-plain",
+					"name": "AI"
+				}
+			]
+		},
+		{
+			"title": "Starpay",
+			"startDate": "2019",
+			"description": "A mobile wallet and muti-tier payment platform. This is a startup company.",
+			"images": [
+				"images/projects/starpay/landing.png",
+				"images/projects/starpay/p1.png",
+				"images/projects/starpay/p2.png",
+				"images/projects/starpay/p3.png"
+			],
+			"role": "Full-stack developer",
+			"url": "https://play.google.com/store/apps/details?id=ph.com.starpay.wallet&hl=en&gl=US",
+			"technologies": [
+				{
+					"class": "devicon-react-original",
+					"name": "React"
+				},
+				{
+					"class": "devicon-javascript-plain",
+					"name": "JavaScript"
+				},
+				{
+					"class": "devicon-jest-plain",
+					"name": "Jest+Enzyme"
+				},
+				{
+					"class": "devicon-angularjs-plain",
+					"name": "Angular"
+				},
+				{
+					"class": "devicon-typescript-plain",
+					"name": "TypeScript"
+				},
+				{
+					"class": "devicon-nodejs-plain",
+					"name": "NodeJS"
+				},
+				{
+					"class": "devicon-java-plain",
+					"name": "Java"
+				},
+				{
+					"class": "devicon-spring-plain",
+					"name": "Spring Boot"
+				},
+				{
+					"class": "devicon-mysql-plain",
+					"name": "MySQL"
+				},
+				{
+					"class": "devicon-docker-plain",
+					"name": "Docker"
+				},
+				{
+					"class": "devicon-firebase-plain",
+					"name": "Firebase"
+				},
+				{
+					"class": "devicon-amazonwebservices-original",
+					"name": "AWS"
+				},
+				{
+					"class": "devicon-gitlab-plain",
+					"name": "GitLab"
+				}
+			]
+		}
+	],
+	"mini_projects": [
+		{
+			"title": "React-Redux XLS Merger",
+			"startDate": "2018",
+			"description": "A React responsive web application that pulls data from a Java-Spring Boot REST API and renders a multi-tier graphical interface. Also has an export to PDF function",
+			"images": [
+				"images/projects/xlsmerger/p1.png",
+				"images/projects/xlsmerger/p1.png",
+				"images/projects/xlsmerger/p2.png"
+			],
+			"url": "https://github.com/jeffrey-arias/xls-merger-react",
+			"role": "Full-stack developer",
+			"technologies": [
+				{
+					"class": "devicon-react-original",
+					"name": "React"
+				},
+				{
+					"class": "devicon-redux-original",
+					"name": "Redux-Thunk"
+				},
+				{
+					"class": "devicon-materialui-plain",
+					"name": "MaterialUI"
+				},
+				{
+					"class": "devicon-javascript-plain",
+					"name": "JavaScript"
+				},
+				{
+					"class": "devicon-sass-original",
+					"name": "Sass"
+				},
+				{
+					"class": "devicon-java-plain",
+					"name": "Java"
+				},
+				{
+					"class": "devicon-spring-plain",
+					"name": "Spring Boot"
+				},
+				{
+					"class": "devicon-github-original",
+					"name": "GitHub"
+				}
+			]
+		},
+		{
+			"title": "React NextJS Woof App",
+			"startDate": "2020",
+			"description": "A responsive Typescript app that implements server-side rendering through NextJS. ",
+			"images": [
+				"images/projects/woof/p1.png",
+				"images/projects/woof/p2.png",
+				"images/projects/woof/p3.png",
+				"images/projects/woof/p4.png",
+				"images/projects/woof/p9.png",
+				"images/projects/woof/p5.png",
+				"images/projects/woof/p6.png",
+				"images/projects/woof/p7.png",
+				"images/projects/woof/p8.png"
+			],
+			"url": "https://github.com/jeffrey-arias/nextjs-woof-app",
+			"role": "Full-stack developer",
+			"technologies": [
+				{
+					"class": "devicon-react-original",
+					"name": "React"
+				},
+				{
+					"class": "devicon-materialui-plain",
+					"name": "MaterialUI"
+				},
+				{
+					"class": "devicon-javascript-plain",
+					"name": "JavaScript"
+				},
+				{
+					"class": "devicon-typescript-plain",
+					"name": "TypeScript"
+				},
+				{
+					"class": "devicon-jest-plain",
+					"name": "Jest+Enzyme"
+				},
+				{
+					"class": "devicon-nextjs-original-wordmark",
+					"name": "NextJS"
+				},
+				{
+					"class": "devicon-sequelize-plain",
+					"name": "Sequelize"
+				},
+				{
+					"class": "devicon-docker-plain",
+					"name": "Docker"
+				},
+				{
+					"class": "devicon-postgresql-plain",
+					"name": "PostgreSQL"
+				},
+				{
+					"class": "devicon-github-original",
+					"name": "GitHub"
+				}
+			]
+		},
+		{
+			"title": "React GraphQL Pokedex",
+			"startDate": "2021",
+			"description": "My own web app version of the famous Pokedex. Uses Apollo-GraphQL to retrieve data from a public API.",
+			"role": "Front-end developer",
+			"images": [
+				"images/projects/pokedex/p1.png",
+				"images/projects/pokedex/p2.png"
+			],
+			"url": "https://github.com/jeffrey-arias/pokedex-react-graphql",
+			"technologies": [
+				{
+					"class": "devicon-react-original",
+					"name": "React"
+				},
+				{
+					"class": "devicon-materialui-plain",
+					"name": "MaterialUI"
+				},
+				{
+					"class": "devicon-javascript-plain",
+					"name": "JavaScript"
+				},
+				{
+					"class": "devicon-graphql-plain",
+					"name": "GraphQL"
+				},
+				{
+					"class": "devicon-github-original",
+					"name": "GitHub"
+				}
+			]
+		}
+	],
+	"experience": [
+		{
+			"company": "Cloud Monitor AI",
+			"title": "Full-stack Developer",
+			"years": "12.2021 - present",
+			"mainTech": ["React", ".Net", "TypeScript"],
+			"technologies": [
+				"MobX",
+				"Material UI",
+				"Formik",
+				"CSS",
+				"MS Azure",
+				"Google Cloud",
+				"AWS",
+				"Git",
+				"MSSQL"
+			]
+		},
+		{
+			"company": "The Plate",
+			"title": "Front-end Developer",
+			"years": "09.2021 - 12.2021",
+			"mainTech": ["React Native"],
+			"technologies": [
+				"Redux",
+				"Symfony",
+				"JavaScript",
+				"CSS",
+				"Docker",
+				"Firebase",
+				"Git",
+				"MySQL"
+			]
+		},
+		{
+			"company": "Reinteractive",
+			"title": "Front-end Developer",
+			"years": "05.2021 - 08.2021",
+			"mainTech": ["React"],
+			"technologies": [
+				"Redux",
+				"Relay",
+				"React-Fela",
+				"Material UI",
+				"Ruby on Rails",
+				"JavaScript",
+				"CSS",
+				"GraphQL",
+				"Docker",
+				"Git",
+				"PostgreSQL"
+			]
+		},
+		{
+			"company": "Starpay",
+			"title": "Full Stack Developer",
+			"years": "10.2019 - 01.2020",
+			"mainTech": ["Angular", "Java", "React"],
+			"technologies": [
+				"REST API",
+				"Spring Boot",
+				"JavaScript",
+				"CSS",
+				"AWS",
+				"Git",
+				"MySQL"
+			]
+		},
+		{
+			"company": "Freelance",
+			"title": "Full Stack Developer",
+			"years": "06.2015 - Present",
+			"mainTech": ["React", "React Native", "Node", "Express"],
+			"technologies": [
+				"React",
+				"React Native",
+				"Node",
+				"Express",
+				"Redux",
+				"NextJS",
+				"Material UI",
+				"Bootstrap",
+				"Sequelize",
+				"JavaScript",
+				"CSS",
+				"SASS",
+				"GraphQL",
+				"Git",
+				"Java",
+				"Spring Boot",
+				"MongoDB",
+				"MySQL",
+				"Oracle DB",
+				"MS SQL Server",
+				"PostgreSQL",
+				"Neo4j",
+				"Heroku",
+				"AWS",
+				"Google Cloud Platform",
+				"Docker"
+			]
+		},
+		{
+			"company": "Wells Fargo",
+			"title": "Lead Developer",
+			"years": "09.2015 - 10.2020",
+			"mainTech": ["Java", "JavaScript", "ColdFusion"],
+			"technologies": [
+				"REST API",
+				"Spring Boot",
+				"jQuery",
+				"ExtJS",
+				"CSS",
+				"MS Azure",
+				"Jenkins",
+				"Git",
+				"MS SQL Server"
+			]
+		},
+		{
+			"company": "INFOR",
+			"title": "Lead Developer",
+			"years": "05.2010 - 08.2015",
+			"mainTech": ["Java", "JavaScript", "JSF"],
+			"technologies": [
+				"JSP",
+				"REST API",
+				"Spring",
+				"jQuery",
+				"CSS",
+				"ANT",
+				"Hibernate",
+				"IBM Websphere",
+				"Tomcat",
+				"SVN",
+				"Accurev",
+				"Oracle DB"
+			]
+		},
+		{
+			"company": "Genpact",
+			"title": "Senior Software Developer",
+			"years": "06.2008 - 04.2010",
+			"mainTech": ["Java", "JavaScript", "JSP"],
+			"technologies": [
+				"Struts 2",
+				"Spring",
+				"Spring DAO",
+				"Spring MVC",
+				"jQuery",
+				"CSS",
+				"SOAP API",
+				"Maven",
+				"Hibernate",
+				"IBM Websphere",
+				"JBoss",
+				"Weblogic",
+				"Tomcat",
+				"SVN",
+				"CVS",
+				"Oracle DB"
+			]
+		},
+		{
+			"company": "Solegy LLC",
+			"title": "Software Developer",
+			"years": "06.2008 - 04.2010",
+			"mainTech": ["Java", "JavaScript"],
+			"technologies": [
+				"JSP",
+				"SOAP API",
+				"Spring",
+				"CSS",
+				"ANT",
+				"Hibernate",
+				"iBatis",
+				"Tomcat",
+				"CVS",
+				"IBM Websphere",
+				"Oracle DB"
+			]
+		},
+		{
+			"company": "Trend Micro",
+			"title": "Jr Antivirus Engineer",
+			"years": "03.2008 - 06.2008",
+			"mainTech": ["Assembly Language"],
+			"technologies": ["Antivirus", "Malware"]
+		}
+	]
 }
