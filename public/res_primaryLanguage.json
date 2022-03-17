@@ -13,7 +13,7 @@
 	},
 	"projects": [
 		{
-			"title": "Cloud Monitor AI",
+			"title": "CloudMonitor AI",
 			"startDate": "2021",
 			"description": "Cloud resource monitoring App, monitors your cloud consumption costs and looks for cost-saving opportunities.",
 			"images": [
@@ -390,7 +390,7 @@
 	],
 	"experience": [
 		{
-			"company": "Cloud Monitor AI",
+			"company": "CloudMonitor AI",
 			"title": "Full-stack Developer",
 			"years": "12.2021 - present",
 			"mainTech": ["React", ".Net", "TypeScript"],
