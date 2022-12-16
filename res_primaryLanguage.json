@@ -13,7 +13,65 @@
 	},
 	"projects": [
 		{
-			"title": "Cloud Monitor AI",
+			"title": "Hygraph",
+			"startDate": "2022",
+			"description": "Hygraph is the next generation GraphQL-Native Federated Content Platform.",
+			"images": [
+				"images/projects/hygraph/landing.png",
+				"images/projects/hygraph/p1.png",
+				"images/projects/hygraph/p2.png",
+				"images/projects/hygraph/p3.png",
+				"images/projects/hygraph/p4.png"
+			],
+			"role": "Sr Full-stack developer",
+			"url": "https://hygraph.com",
+			"technologies": [
+				{
+					"class": "devicon-nodejs-plain",
+					"name": "Node"
+				},
+				{
+					"class": "devicon-react-plain",
+					"name": "React"
+				},
+				{
+					"class": "devicon-typescript-plain",
+					"name": "TypeScript"
+				},
+				{
+					"class": "devicon-go-original-wordmark",
+					"name": "Golang"
+				},
+				{
+					"class": "devicon-graphql-plain",
+					"name": "GraphQL"
+				},
+				{
+					"class": "devicon-docker-plain",
+					"name": "Docker"
+				},
+				
+				{
+					"class": "devicon-redis-plain",
+					"name": "Redis"
+				},
+				
+				{
+					"class": "devicon-postgresql-plain",
+					"name": "PostgreSQL"
+				},
+				{
+					"class": "devicon-amazonwebservices-original",
+					"name": "AWS"
+				},
+				{
+					"class": "devicon-github-original",
+					"name": "GitHub"
+				}
+			]
+		},
+		{
+			"title": "CloudMonitor AI",
 			"startDate": "2021",
 			"description": "Cloud resource monitoring App, monitors your cloud consumption costs and looks for cost-saving opportunities.",
 			"images": [
@@ -390,7 +448,7 @@
 	],
 	"experience": [
 		{
-			"company": "Cloud Monitor AI",
+			"company": "CloudMonitor AI",
 			"title": "Full-stack Developer",
 			"years": "12.2021 - present",
 			"mainTech": ["React", ".Net", "TypeScript"],

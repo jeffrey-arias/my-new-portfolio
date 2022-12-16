@@ -134,6 +134,11 @@
           "level": "85"
         },
         {
+          "name": "Golang",
+          "class": "devicon-go-original-wordmark",
+          "level": "85"
+        },
+        {
           "name": "Smfony PHP",
           "class": "devicon-symfony-original",
           "level": "85"
@@ -156,6 +161,11 @@
         {
           "name": "PostgreSQL",
           "class": "devicon-postgresql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Redis",
+          "class": "devicon-redis-plain",
           "level": "60"
         },
         {
