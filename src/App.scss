@@ -99,8 +99,8 @@ header h1 {
 
 .slider-image {
 	border: 5px solid lightgray;
+	overflow: hidden;
 }
-
 .slider-image-content {
 	width: auto !important;
 	justify-content: center;
@@ -110,6 +110,8 @@ header h1 {
 .slider-tab {
 	background-color: #9BB7D4;
 	height: 25px;
+	overflow: hidden;
+
 }
 
 .slider-iconfiy {
@@ -443,4 +445,8 @@ footer a:focus {
 .social-links {
 	margin-top: 50px;
 	font-size: 22px;
+}
+
+.awssld__content > img{
+	overflow: hidden;
 }
