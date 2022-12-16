@@ -448,9 +448,23 @@
 	],
 	"experience": [
 		{
+			"company": "Hygraph",
+			"title": "Sr. Full-stack Developer",
+			"years": "06.2022 - present",
+			"mainTech": ["React", "GraphQL", "TypeScript", "Node"],
+			"technologies": [
+				"Golang",
+				"Docker",
+				"AWS",
+				"Redis",
+				"PostgreSQL",
+				"Git"
+			]
+		},
+		{
 			"company": "CloudMonitor AI",
 			"title": "Full-stack Developer",
-			"years": "12.2021 - present",
+			"years": "12.2021 - 06.2022",
 			"mainTech": ["React", ".Net", "TypeScript"],
 			"technologies": [
 				"MobX",
