@@ -404,6 +404,14 @@ header h1 {
 	padding-bottom: 10%;
 }
 
+#certifications {
+	background: #1F1F1F;
+	min-height: 200px;
+	width: 100%;
+	overflow: hidden;
+	padding-bottom: 10%;
+}
+
 .section-title {
 	padding-top: 5%;
 	padding-bottom: 5%;
@@ -450,3 +458,137 @@ footer a:focus {
 .awssld__content > img{
 	overflow: hidden;
 }
+
+/* Icons for the app */
+
+[class^="myicon-"], [class*=" myicon-"] {
+	font-family: 'devicon' !important;
+	speak: never;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+  	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+  }
+
+.myicon-netlify:before {
+	content: "\e986";
+	color: white;
+	opacity: 0;
+}
+
+.myicon-netlify {
+	height: 80px;
+	width: 59.5px;
+	background: url(./svg/netlify-ico.svg) no-repeat;
+}
+
+.myicon-styledcomponents:before {
+	content: "\e986";
+	color: white;
+	opacity: 0;
+}
+
+.myicon-styledcomponents {
+	height: 80px;
+	width: 59.5px;
+	background: url(./svg/styledcomponents-ico.svg) no-repeat;
+}
+
+.myicon-enzyme:before {
+	content: "\e986";
+	color: white;
+	opacity: 0;
+}
+
+.myicon-enzyme {
+	height: 80px;
+	width: 59.5px;
+	background: url(./svg/enzyme-ico.svg) no-repeat;
+}
+
+.myicon-mobx:before {
+	content: "\e986";
+	color: white;
+	opacity: 0;
+}
+
+.myicon-mobx {
+	height: 80px;
+	width: 59.5px;
+	background: url(./svg/mobx-ico.svg) no-repeat;
+}
+
+.myicon-expo:before {
+	content: "\e986";
+	color: white;
+	opacity: 0;
+}
+
+.myicon-expo {
+	height: 80px;
+	width: 59.5px;
+	background: url(./svg/expo-ico.svg) no-repeat;
+}
+
+.myicon-expo-dark:before {
+	content: "\e986";
+	color: white;
+	opacity: 0;
+}
+
+.myicon-expo-dark {
+	height: 80px;
+	width: 59.5px;
+	background: url(./svg/expo-dark-ico.svg) no-repeat;
+}
+
+.myicon-apollo:before {
+	content: "\e986";
+	color: white;
+	opacity: 0;
+}
+
+.myicon-apollo {
+	height: 80px;
+	width: 59.5px;
+	background: url(./svg/apollo-ico.svg) no-repeat;
+}
+
+.myicon-apollo-dark:before {
+	content: "\e986";
+	color: white;
+	opacity: 0;
+}
+
+.myicon-apollo-dark {
+	height: 80px;
+	width: 59.5px;
+	background: url(./svg/apollo-dark-ico.svg) no-repeat;
+}
+
+.myicon-reactnavigation:before {
+	content: "\e986";
+	color: white;
+	opacity: 0;
+}
+
+.myicon-reactnavigation {
+	height: 80px;
+	width: 59.5px;
+	background: url(./svg/reactnavigation-ico.svg) no-repeat;
+}
+
+// .myicon-reactnativeelements:before {
+// 	content: "\e986";
+// 	color: white;
+// 	opacity: 0;
+// }
+
+// .myicon-reactnativeelements {
+// 	height: 80px;
+// 	width: 59.5px;
+// 	background: url(./svg/reactnativeelements-ico.svg) no-repeat;
+// }

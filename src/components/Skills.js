@@ -8,7 +8,10 @@ class Skills extends Component {
         return (
           <li className="list-inline-item mx-3" key={i}>
             <span>
-              <div className="text-center skills-tile">
+              <div
+                className="text-center skills-tile"
+                title={skills.alt ? skills.alt : skills.name}
+              >
                 <i className={skills.class} style={{ fontSize: "220%" }}>
                   <p
                     className="text-center"
