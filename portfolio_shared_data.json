@@ -54,23 +54,44 @@
           "level": "95"
         },
         {
+					"class": "myicon-apollo",
+					"name": "Apollo",
+          "level": "95"
+				},
+        {
           "name": "Material UI",
           "class": "devicon-materialui-plain",
           "level": "95"
         },
+        {
+					"class": "myicon-styledcomponents",
+					"name": "StyledCompo..",
+          "alt": "Styled Components",
+          "level": "95"
+				},
         {
           "name": "Redux",
           "class": "devicon-redux-original",
           "level": "65"
         },
         {
+					"class": "myicon-mobx",
+					"name": "MobX",
+          "level": "95"
+				},
+        {
           "class": "devicon-sequelize-plain",
           "name": "Sequelize"
         },
         {
           "class": "devicon-jest-plain",
-          "name": "Jest+Enzyme"
+          "name": "Jest"
         },
+        {
+					"class": "myicon-enzyme",
+					"name": "Enzyme",
+          "level": "95"
+				},
         {
           "class": "devicon-npm-original-wordmark",
           "name": "NPM"
@@ -80,17 +101,37 @@
           "name": "Yarn"
         },
         {
-          "class": "devicon-jquery-plain",
-          "name": "Jquery"
-        },
+					"class": "myicon-expo",
+					"name": "Expo",
+          "level": "95"
+				},
+        {
+					"class": "myicon-reactnavigation",
+					"name": "React Navi...",
+          "alt": "React Navigation",
+          "level": "95"
+				},
+        {
+					"class": "devicon-react-original",
+					"name": "React Native...",
+          "alt": "React Native Elements",
+          "level": "95"
+				},
+        {
+					"class": "devicon-react-original",
+					"name": "React Native...",
+          "alt": "React Native Gesture Handler",
+          "level": "95"
+				},
+        {
+					"class": "devicon-react-original",
+					"name": "React Native...",
+          "alt": "React Native Maps",
+          "level": "95"
+				},
         {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "Markdown",
-          "class": "devicon-markdown-original",
           "level": "95"
         },
         {
@@ -99,14 +140,28 @@
           "level": "95"
         },
         {
+          "name": "Markdown",
+          "class": "devicon-markdown-original",
+          "level": "95"
+        },
+        {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
-        },  
+        },
+        {
+					"class": "devicon-tailwindcss-plain",
+					"name": "Tailwind",
+          "level": "85"
+				},
         {
           "name": "Sass",
           "class": "devicon-sass-original",
           "level": "75"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "Jquery"
         },
         {
           "name": "Node",
@@ -208,7 +263,11 @@
           "class": "devicon-amazonwebservices-original",
           "level": "60"
         },
-
+        {
+					"class": "myicon-netlify",
+					"name": "Netlify",
+          "level": "60"
+				},
         {
           "name": "Heroku",
           "class": "devicon-heroku-original",
