@@ -5,7 +5,7 @@
 		"section_name": {
 			"about": "About me",
 			"projects": "Projects",
-			"mini_projects": "Mini Projects",
+			"mini_projects": "Personal Projects",
 			"skills": "Skills",
 			"experience": "Experience",
 			"certifications": "Certifications"
@@ -313,7 +313,7 @@
 	"mini_projects": [
 		{
 			"title": "React Native Uber",
-			"startDate": "2021",
+			"startDate": "2023",
 			"description": "My mobile native version of Uber. Uses GCP APIs for map-related functionalities.",
 			"role": "Mobile developer",
 			"images": [
@@ -347,6 +347,35 @@
 				{
 					"class": "devicon-googlecloud-plain",
 					"name": "Google Cloud"
+				},
+				{
+					"class": "devicon-github-original",
+					"name": "GitHub"
+				}
+			]
+		},
+		{
+			"title": "Vanilla JS Webapp",
+			"startDate": "2023",
+			"description": "This app highlights that modern responsive applications can still be built using basic ES6 Javascript, CSS3 and HTML5. There are no external libraries or frameworks used to build this webapp. This webapp is designed to maximize SEO compliance and performance",
+			"role": "Front-end developer",
+			"images": [
+				"images/projects/vanilla/1.png",
+				"images/projects/vanilla/2.png"
+			],
+			"url": "https://github.com/jeffrey-arias/my-vanilla-js-css-html",
+			"technologies": [
+				{
+					"class": "devicon-javascript-plain",
+					"name": "JavaScript"
+				},
+				{
+				"name": "CSS3",
+				"class": "devicon-css3-plain"
+				},
+				{
+				"name": "HTML5",
+				"class": "devicon-html5-plain"
 				},
 				{
 					"class": "devicon-github-original",
