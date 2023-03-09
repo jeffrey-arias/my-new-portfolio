@@ -1,11 +1,11 @@
 {
 	"basic_info": {
 		"description_header": "Hi",
-		"description": "👋 I am Jeffrey Arias, a mobile and web software developer. I have more than 14 years of software developmenmt experience, both corporate and freelance. I also have experience in leading a development team, small and in hardly mangeable numbers (thank God for Agile!). Javascript is my primary programming language, a.k.a. TypeScript without the safety nets. React and React-Native are my go-to front-end frameworks (libraries?). Of course I'm quite handy with CSS3 and HTML5 as well. I absolutely love using NextJS for SSR, I think it's currently the best at what it does out there. I'm most happy creating back-end apps using Node and Java, especially with GraphQL thrown in the mix to make API calls more streamlined. Serverless is the way to go for me, but you can never go wrong with Containers. Outside of work, I'm an easy going, and fun loving fella. I love dogs (especially my buddy Apollo here 👈), and am also quite the adrenaline junkie. I compete in triathlons/multisport to keep myself fit and could never pass up an opportunity to climb a mountain or hike a scenic route. All these being said, there's nothing that I love more than spending quality time with my family and friends, especially with my most adorable daughter.",
+		"description": "👋 I am Jeffrey Arias, a mobile and web software developer. I have more than 15 years of software developmenmt experience, both corporate and freelance. I also have experience in leading a development team, small and in hardly mangeable numbers (thank God for Agile!). Javascript is my primary programming language, a.k.a. TypeScript without the safety nets. React and React-Native are my go-to front-end frameworks (libraries?). Of course I'm quite handy with CSS3 and HTML5 as well. I absolutely love using NextJS for SSR, I think it's currently the best at what it does out there. I'm most happy creating back-end apps using Node and Java, especially with GraphQL thrown in the mix to make API calls more streamlined. Serverless is the way to go for me, but you can never go wrong with Containers. Outside of work, I'm an easy going, and fun loving fella. I love dogs (especially my buddy Apollo here 👈), and am also quite the adrenaline junkie. I compete in triathlons/multisport to keep myself fit and could never pass up an opportunity to climb a mountain or hike a scenic route. All these being said, there's nothing that I love more than spending quality time with my family and friends, especially with my most adorable daughter.",
 		"section_name": {
 			"about": "über mich",
 			"projects": "React Projekte",
-			"mini_projects": "Persönliche projekte",
+			"mini_projects": "Kleiner React Projekte",
 			"skills": "Fähigkeiten",
 			"experience": "Erfahrung",
 			"certifications": "Zertifizierungen"
@@ -313,7 +313,7 @@
 	"mini_projects": [
 		{
 			"title": "React Native Uber",
-			"startDate": "2021",
+			"startDate": "2023",
 			"description": "My mobile native version of Uber. Uses GCP APIs for map-related functionalities.",
 			"role": "Mobile developer",
 			"images": [
@@ -347,6 +347,35 @@
 				{
 					"class": "devicon-googlecloud-plain",
 					"name": "Google Cloud"
+				},
+				{
+					"class": "devicon-github-original",
+					"name": "GitHub"
+				}
+			]
+		},
+		{
+			"title": "Vanilla JS Webapp",
+			"startDate": "2023",
+			"description": "This app highlights that modern responsive applications can still be built using basic ES6 Javascript, CSS3 and HTML5. There are no external libraries or frameworks used to build this webapp. This webapp is designed to maximize SEO compliance and performance",
+			"role": "Front-end developer",
+			"images": [
+				"images/projects/vanilla/1.png",
+				"images/projects/vanilla/2.png"
+			],
+			"url": "https://github.com/jeffrey-arias/my-vanilla-js-css-html",
+			"technologies": [
+				{
+					"class": "devicon-javascript-plain",
+					"name": "JavaScript"
+				},
+				{
+				"name": "CSS3",
+				"class": "devicon-css3-plain"
+				},
+				{
+				"name": "HTML5",
+				"class": "devicon-html5-plain"
 				},
 				{
 					"class": "devicon-github-original",
