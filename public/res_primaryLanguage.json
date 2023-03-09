@@ -1,13 +1,14 @@
 {
 	"basic_info": {
 		"description_header": "Hi",
-		"description": "👋 I am Jeffrey Arias, a mobile and web software developer. I have more than 14 years of software developmenmt experience, both corporate and freelance. I also have experience in leading a development team, small and in hardly mangeable numbers (thank God for Agile!). Javascript is my primary programming language, a.k.a. TypeScript without the safety nets. React and React-Native are my go-to front-end frameworks (libraries?). Of course I'm quite handy with CSS3 and HTML5 as well. I absolutely love using NextJS for SSR, I think it's currently the best at what it does out there. I'm most happy creating back-end apps using Node and Java, especially with GraphQL thrown in the mix to make API calls more streamlined. Serverless is the way to go for me, but you can never go wrong with Containers. Outside of work, I'm an easy going, and fun loving fella. I love dogs (especially my buddy Apollo here 👈), and am also quite the adrenaline junkie. I compete in triathlons/multisport to keep myself fit and could never pass up an opportunity to climb a mountain or hike a scenic route. All these being said, there's nothing that I love more than spending quality time with my family and friends, especially with my most adorable daughter.",
+		"description": "👋 I am Jeffrey Arias, a mobile and web software developer. I have more than 15 years of software developmenmt experience, both corporate and freelance. I also have experience in leading a development team, small and in hardly mangeable numbers (thank God for Agile!). Javascript is my primary programming language, a.k.a. TypeScript without the safety nets. React and React-Native are my go-to front-end frameworks (libraries?). Of course I'm quite handy with CSS3 and HTML5 as well. I absolutely love using NextJS for SSR, I think it's currently the best at what it does out there. I'm most happy creating back-end apps using Node and Java, especially with GraphQL thrown in the mix to make API calls more streamlined. Serverless is the way to go for me, but you can never go wrong with Containers. Outside of work, I'm an easy going, and fun loving fella. I love dogs (especially my buddy Apollo here 👈), and am also quite the adrenaline junkie. I compete in triathlons/multisport to keep myself fit and could never pass up an opportunity to climb a mountain or hike a scenic route. All these being said, there's nothing that I love more than spending quality time with my family and friends, especially with my most adorable daughter.",
 		"section_name": {
 			"about": "About me",
 			"projects": "Projects",
 			"mini_projects": "Mini Projects",
 			"skills": "Skills",
-			"experience": "Experience"
+			"experience": "Experience",
+			"certifications": "Certifications"
 		},
 		"react_label": "This site is made with"
 	},
@@ -45,6 +46,10 @@
 				{
 					"class": "devicon-graphql-plain",
 					"name": "GraphQL"
+				},
+				{
+					"class": "devicon-jest-plain",
+					"name": "Jest+Enzyme"
 				},
 				{
 					"class": "devicon-docker-plain",
@@ -307,6 +312,142 @@
 	],
 	"mini_projects": [
 		{
+			"title": "React Native Uber",
+			"startDate": "2021",
+			"description": "My mobile native version of Uber. Uses GCP APIs for map-related functionalities.",
+			"role": "Mobile developer",
+			"images": [
+				"images/projects/uberclone/1p.png",
+				"images/projects/uberclone/1.png",
+				"images/projects/uberclone/2.png",
+				"images/projects/uberclone/3.png"
+			],
+			"url": "https://github.com/jeffrey-arias/my-uber-clone/",
+			"technologies": [
+				{
+					"class": "devicon-react-original",
+					"name": "React Native"
+				},
+				{
+					"class": "devicon-redux-original",
+					"name": "Redux"
+				},
+				{
+					"class": "devicon-javascript-plain",
+					"name": "JavaScript"
+				},
+				{
+					"class": "myicon-expo-dark",
+					"name": "Expo"
+				},
+				{
+					"class": "devicon-tailwindcss-plain",
+					"name": "Tailwind"
+				},
+				{
+					"class": "devicon-googlecloud-plain",
+					"name": "Google Cloud"
+				},
+				{
+					"class": "devicon-github-original",
+					"name": "GitHub"
+				}
+			]
+		},
+		{
+			"title": "React GraphQL Pokedex",
+			"startDate": "2021",
+			"description": "My own web app version of the famous Pokedex. Uses Apollo-GraphQL to retrieve data from a public API.",
+			"role": "Front-end developer",
+			"images": [
+				"images/projects/pokedex/p1.png",
+				"images/projects/pokedex/p2.png"
+			],
+			"url": "https://github.com/jeffrey-arias/pokedex-react-graphql",
+			"technologies": [
+				{
+					"class": "devicon-react-original",
+					"name": "React"
+				},
+				{
+					"class": "devicon-graphql-plain",
+					"name": "GraphQL"
+				},
+				{
+					"class": "myicon-apollo-dark",
+					"name": "Apollo"
+				},
+				{
+					"class": "devicon-materialui-plain",
+					"name": "MaterialUI"
+				},
+				{
+					"class": "devicon-javascript-plain",
+					"name": "JavaScript"
+				},
+				{
+					"class": "devicon-github-original",
+					"name": "GitHub"
+				}
+			]
+		},
+		{
+			"title": "React NextJS Woof App",
+			"startDate": "2020",
+			"description": "A responsive Typescript app that implements server-side rendering through NextJS. ",
+			"images": [
+				"images/projects/woof/p1.png",
+				"images/projects/woof/p2.png",
+				"images/projects/woof/p3.png",
+				"images/projects/woof/p4.png",
+				"images/projects/woof/p9.png",
+				"images/projects/woof/p5.png",
+				"images/projects/woof/p6.png",
+				"images/projects/woof/p7.png",
+				"images/projects/woof/p8.png"
+			],
+			"url": "https://github.com/jeffrey-arias/nextjs-woof-app",
+			"role": "Full-stack developer",
+			"technologies": [
+				{
+					"class": "devicon-react-original",
+					"name": "React"
+				},
+				{
+					"class": "devicon-materialui-plain",
+					"name": "MaterialUI"
+				},
+				{
+					"class": "devicon-typescript-plain",
+					"name": "TypeScript"
+				},
+				{
+					"class": "devicon-jest-plain",
+					"name": "Jest+Enzyme"
+				},
+				{
+					"class": "devicon-nextjs-original-wordmark",
+					"name": "NextJS"
+				},
+				{
+					"class": "devicon-sequelize-plain",
+					"name": "Sequelize"
+				},
+				{
+					"class": "devicon-docker-plain",
+					"name": "Docker"
+				},
+				{
+					"class": "devicon-postgresql-plain",
+					"name": "PostgreSQL"
+				},
+				{
+					"class": "devicon-github-original",
+					"name": "GitHub"
+				}
+			]
+		},
+		{
 			"title": "React-Redux XLS Merger",
 			"startDate": "2018",
 			"description": "A React responsive web application that pulls data from a Java-Spring Boot REST API and renders a multi-tier graphical interface. Also has an export to PDF function",
@@ -345,99 +486,6 @@
 				{
 					"class": "devicon-spring-plain",
 					"name": "Spring Boot"
-				},
-				{
-					"class": "devicon-github-original",
-					"name": "GitHub"
-				}
-			]
-		},
-		{
-			"title": "React NextJS Woof App",
-			"startDate": "2020",
-			"description": "A responsive Typescript app that implements server-side rendering through NextJS. ",
-			"images": [
-				"images/projects/woof/p1.png",
-				"images/projects/woof/p2.png",
-				"images/projects/woof/p3.png",
-				"images/projects/woof/p4.png",
-				"images/projects/woof/p9.png",
-				"images/projects/woof/p5.png",
-				"images/projects/woof/p6.png",
-				"images/projects/woof/p7.png",
-				"images/projects/woof/p8.png"
-			],
-			"url": "https://github.com/jeffrey-arias/nextjs-woof-app",
-			"role": "Full-stack developer",
-			"technologies": [
-				{
-					"class": "devicon-react-original",
-					"name": "React"
-				},
-				{
-					"class": "devicon-materialui-plain",
-					"name": "MaterialUI"
-				},
-				{
-					"class": "devicon-javascript-plain",
-					"name": "JavaScript"
-				},
-				{
-					"class": "devicon-typescript-plain",
-					"name": "TypeScript"
-				},
-				{
-					"class": "devicon-jest-plain",
-					"name": "Jest+Enzyme"
-				},
-				{
-					"class": "devicon-nextjs-original-wordmark",
-					"name": "NextJS"
-				},
-				{
-					"class": "devicon-sequelize-plain",
-					"name": "Sequelize"
-				},
-				{
-					"class": "devicon-docker-plain",
-					"name": "Docker"
-				},
-				{
-					"class": "devicon-postgresql-plain",
-					"name": "PostgreSQL"
-				},
-				{
-					"class": "devicon-github-original",
-					"name": "GitHub"
-				}
-			]
-		},
-		{
-			"title": "React GraphQL Pokedex",
-			"startDate": "2021",
-			"description": "My own web app version of the famous Pokedex. Uses Apollo-GraphQL to retrieve data from a public API.",
-			"role": "Front-end developer",
-			"images": [
-				"images/projects/pokedex/p1.png",
-				"images/projects/pokedex/p2.png"
-			],
-			"url": "https://github.com/jeffrey-arias/pokedex-react-graphql",
-			"technologies": [
-				{
-					"class": "devicon-react-original",
-					"name": "React"
-				},
-				{
-					"class": "devicon-materialui-plain",
-					"name": "MaterialUI"
-				},
-				{
-					"class": "devicon-javascript-plain",
-					"name": "JavaScript"
-				},
-				{
-					"class": "devicon-graphql-plain",
-					"name": "GraphQL"
 				},
 				{
 					"class": "devicon-github-original",
@@ -534,21 +582,32 @@
 			"years": "06.2015 - Present",
 			"mainTech": ["React", "React Native", "Node", "Express"],
 			"technologies": [
+				"JavaScript",
+				"TypeScript",
 				"React",
 				"React Native",
 				"Node",
 				"Express",
 				"Redux",
+				"MobX",
 				"NextJS",
 				"Material UI",
+				"Styled Components",
 				"Bootstrap",
 				"Sequelize",
-				"JavaScript",
+				"React Query",
+				"Apollo",
+				"React Relay",
+				"Formik",
 				"CSS",
 				"SASS",
+				"Tailwind",
 				"GraphQL",
 				"Git",
 				"Java",
+				"Symfony PHP",
+				"Ruby on Rails",
+				".NET",
 				"Spring Boot",
 				"MongoDB",
 				"MySQL",
@@ -556,7 +615,10 @@
 				"MS SQL Server",
 				"PostgreSQL",
 				"Neo4j",
+				"Redis",
 				"Heroku",
+				"Netlify",
+				"MS Azure",
 				"AWS",
 				"Google Cloud Platform",
 				"Docker"
@@ -649,5 +711,15 @@
 			"mainTech": ["Assembly Language"],
 			"technologies": ["Antivirus", "Malware"]
 		}
+	],
+	"certifications" : 
+	[
+	  {
+		"title": "AZ-900: Microsoft Azure Fundamentals",
+		"body": "Microsoft",
+		"date": "Jun 2002",
+		"id": "992889560"
+
+	  }
 	]
 }
