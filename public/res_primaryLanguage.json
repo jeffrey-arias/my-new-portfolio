@@ -384,6 +384,35 @@
 			]
 		},
 		{
+			"title": "React Jest Webapp",
+			"startDate": "2023",
+			"description": "A reusable menu component, written in TypeScript to highlight proper unit testing in Jest",
+			"role": "Front-end developer",
+			"images": [
+				"images/projects/sapiaai/1.png",
+				"images/projects/sapiaai/2.png"
+			],
+			"url": "https://github.com/jeffrey-arias/my-sapiaai-menu",
+			"technologies": [
+				{
+					"class": "devicon-react-original",
+					"name": "React"
+				},
+				{
+					"class": "myicon-styledcomponents-dark",
+					"name": "Styled Components"
+				},
+				{
+					"class": "devicon-typescript-plain",
+					"name": "TypeScript"
+				},
+				{
+					"class": "devicon-jest-plain",
+					"name": "Jest+Enzyme"
+				}
+			]
+		},
+		{
 			"title": "React GraphQL Pokedex",
 			"startDate": "2021",
 			"description": "My own web app version of the famous Pokedex. Uses Apollo-GraphQL to retrieve data from a public API.",

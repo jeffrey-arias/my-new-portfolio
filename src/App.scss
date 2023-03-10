@@ -497,6 +497,19 @@ footer a:focus {
 	background: url(./svg/styledcomponents-ico.svg) no-repeat;
 }
 
+.myicon-styledcomponents-dark:before {
+	content: "\e986";
+	color: white;
+	opacity: 0;
+}
+
+.myicon-styledcomponents-dark {
+	height: 80px;
+	width: 59.5px;
+	background: url(./svg/styledcomponents-dark-ico.svg) no-repeat;
+}
+
+
 .myicon-enzyme:before {
 	content: "\e986";
 	color: white;
