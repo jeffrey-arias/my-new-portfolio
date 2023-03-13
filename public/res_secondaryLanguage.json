@@ -308,6 +308,262 @@
 					"name": "GitLab"
 				}
 			]
+		},
+		{
+			"title": "Wells Fargo DMT",
+			"startDate": "2015",
+			"description": "A task management and custom workflow supervision web application.",
+			"images": [
+				"images/projects/wellsfargo/landing.png"
+			],
+			"role": "Sr. Full-stack developer",
+			"url": "https://www.wellsfargo.com/",
+			"technologies": [
+				{
+					"class": "devicon-javascript-plain",
+					"name": "JavaScript"
+				},
+				{
+					"class": "devicon-jquery-plain",
+					"name": "Jquery"
+				},
+				{
+					"name": "CSS 3",
+					"class": "devicon-css3-plain"
+				},
+				{
+					"class": "devicon-java-plain",
+					"name": "Java / JEE"
+				},
+				{
+					"class": "devicon-java-plain",
+					"name": "Java REST API"
+				},
+				{
+					"class": "devicon-spring-plain",
+					"name": "Spring Boot"
+				},
+				{
+					"class": "devicon-microsoftsqlserver-plain",
+					"name": "MS SQL Server"
+				},
+				{
+					"class": "devicon-tortoisegit-plain",
+					"name": "SVN"
+				}
+			]
+		},
+		{
+			"title": "INFOR WS Security",
+			"startDate": "2014",
+			"description": "Webservices security layer for REST and SOAP",
+			"images": [
+				"images/projects/cmd/cmd.jpeg"
+			],
+			"role": "Lead Full-stack developer",
+			"technologies": [
+				{
+					"class": "devicon-java-plain",
+					"name": "Java/JEE"
+				},
+				{
+					"class": "devicon-java-plain",
+					"name": "Java REST API"
+				},
+				{
+					"class": "devicon-java-plain",
+					"name": "Java SOAP"
+				},
+				{
+					"class": "devicon-spring-plain",
+					"name": "Spring"
+				},
+				{
+					"class": "devicon-tortoisegit-plain",
+					"name": "SVN"
+				}
+			]
+		},
+		{
+			"title": "INFOR B&P",
+			"startDate": "2010",
+			"description": "A cost forecasting, budgeting and planning web application",
+			"images": [
+				"images/projects/infor/1.png",
+				"images/projects/infor/2.png",
+				"images/projects/infor/3.png"
+			],
+			"role": "Lead Full-stack developer",
+			"url": "https://www.infor.com/solutions/financials/enterprise-performance-management",
+			"technologies": [
+				{
+					"class": "devicon-javascript-plain",
+					"name": "JavaScript"
+				},
+				{
+					"class": "devicon-jquery-plain",
+					"name": "Jquery"
+				},
+				{
+					"name": "CSS 3",
+					"class": "devicon-css3-plain"
+				},
+				{
+					"class": "devicon-java-plain",
+					"name": "Java/JEE"
+				},
+				{
+					"class": "devicon-java-plain",
+					"name": "Java SOAP API"
+				},
+				{
+					"class": "devicon-java-plain",
+					"name": "Java Server Faces"
+				},
+				{
+					"class": "devicon-spring-plain",
+					"name": "Spring"
+				},
+				{
+					"class": "devicon-perl-plain",
+					"name": "Perl"
+				},
+				{
+					"name": "Oracle DB",
+					"class": "devicon-oracle-original"
+				},
+				{
+					"class": "devicon-tortoisegit-plain",
+					"name": "SVN"
+				}
+			]
+		},
+		{
+			"title": "Database Migrate",
+			"startDate": "2009",
+			"description": "Database migration tool for Oracle, MS SQL Server and MySQL",
+			"images": [
+				"images/projects/cmd/cmd.jpeg"
+			],
+			"role": "Software Developer",
+			"technologies": [
+				{
+					"class": "devicon-java-plain",
+					"name": "Java"
+				},
+				{
+					"class": "devicon-spring-plain",
+					"name": "Spring"
+				},
+				{
+					"class": "devicon-spring-plain",
+					"name": "Spring DAO"
+				},
+				{
+					"class": "devicon-tortoisegit-plain",
+					"name": "SVN"
+				}
+			]
+		},
+		{
+			"title": "EngageOne",
+			"startDate": "2008",
+			"description": "In-demand document designing, management, delivery and workflow supervision tool.",
+			"images": [
+				"images/projects/engageone/1.jpeg"
+			],
+			"role": "Software Developer",
+			"url": "https://www.pitneybowes.com/us",
+			"technologies": [
+				{
+					"class": "devicon-javascript-plain",
+					"name": "JavaScript"
+				},
+				{
+					"class": "devicon-jquery-plain",
+					"name": "Jquery"
+				},
+				{
+					"name": "CSS",
+					"class": "devicon-css3-plain"
+				},
+				{
+					"class": "devicon-java-plain",
+					"name": "Java/JEE"
+				},
+				{
+					"class": "devicon-java-plain",
+					"name": "Java REST API"
+				},
+				{
+					"class": "devicon-java-plain",
+					"name": "Struts 2"
+				},
+				{
+					"class": "devicon-spring-plain",
+					"name": "Spring"
+				},
+				{
+					"class": "devicon-mysql-plain",
+					"name": "MySQL"
+				},
+				{
+					"class": "devicon-microsoftsqlserver-plain",
+					"name": "MS SQL Server"
+				},
+				{
+					"name": "Oracle DB",
+					"class": "devicon-oracle-original"
+				},
+				{
+					"class": "devicon-tortoisegit-plain",
+					"name": "SVN"
+				}
+			]
+		},
+		{
+			"title": "Solegy VOIP",
+			"startDate": "2007",
+			"description": "Hosted VoIP infrastructure and software platform to quickly and easily manage and deploy new applications and back-office services.",
+			"images": [
+				"images/projects/solegy/1.png"
+			],
+			"role": "Jr. Software Developer",
+			"url": "https://download.cnet.com/developer/solegy/i-6289633",
+			"technologies": [
+				{
+					"class": "devicon-javascript-plain",
+					"name": "JavaScript"
+				},
+				{
+					"name": "CSS",
+					"class": "devicon-css3-plain"
+				},
+				{
+					"class": "devicon-java-plain",
+					"name": "Java/JEE"
+				},
+				{
+					"class": "devicon-java-plain",
+					"name": "Java REST API"
+				},
+				{
+					"class": "devicon-java-plain",
+					"name": "Struts"
+				},
+				{
+					"class": "devicon-mysql-plain",
+					"name": "MySQL"
+				},
+				{
+					"name": "Oracle DB",
+					"class": "devicon-oracle-original"
+				},
+				{
+					"class": "devicon-tortoisegit-plain",
+					"name": "CVS"
+				}
+			]
 		}
 	],
 	"mini_projects": [
