@@ -100,17 +100,20 @@ header h1 {
 .slider-image {
 	border: 5px solid lightgray;
 	overflow: hidden;
+	object-fit: contain;
 }
 .slider-image-content {
 	width: auto !important;
 	justify-content: center;
 	display: flex;
+	object-fit: contain;
 }
 
 .slider-tab {
 	background-color: #9BB7D4;
 	height: 25px;
 	overflow: hidden;
+	object-fit: contain;
 
 }
 
