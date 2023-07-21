@@ -14,6 +14,60 @@
 	},
 	"projects": [
 		{
+			"title": "Templi",
+			"startDate": "2023",
+			"description": "E-commerce and B2B Marketplace platform, optimized for performance and SEO",
+			"images": [
+				"images/projects/templi/landing.png",
+				"images/projects/templi/1.png",
+				"images/projects/templi/2.png",
+				"images/projects/templi/3.png",
+				"images/projects/templi/4.png",
+				"images/projects/templi/5.png",
+				"images/projects/templi/6.png"
+			],
+			"role": "Front-end developer",
+			"url": "https://templi.com",
+			"technologies": [
+				{
+					"class": "devicon-react-plain",
+					"name": "React"
+				},
+				{
+					"class": "devicon-typescript-plain",
+					"name": "TypeScript"
+				},
+				{
+					"class": "devicon-nextjs-original-wordmark",
+					"name": "NextJS"
+				},
+				{
+					"class": "devicon-graphql-plain",
+					"name": "GraphQL"
+				},
+				{
+					"class": "devicon-magento-original",
+					"name": "Magento2"
+				},
+				{
+					"class": "devicon-tailwindcss-plain",
+					"name": "Tailwind"
+				},
+				{
+					"class": "devicon-jest-plain",
+					"name": "Jest+Enzyme"
+				},
+				{
+					"class": "devicon-docker-plain",
+					"name": "Docker"
+				},
+				{
+					"class": "devicon-github-original",
+					"name": "GitHub"
+				}
+			]
+		},
+		{
 			"title": "Hygraph",
 			"startDate": "2022",
 			"description": "Hygraph is the next generation GraphQL-Native Federated Content Platform.",
@@ -810,9 +864,24 @@
 	],
 	"experience": [
 		{
+			"company": "Templi",
+			"title": "Front-end Developer",
+			"years": "03.2023 - present",
+			"mainTech": ["React", "TypeScript", "NextJS", "GraphQL"],
+			"technologies": [
+				"Magento2",
+				"Material UI",
+				"Tailwind",
+				"GraphCommerce",
+				"Docker",
+				"AWS",
+				"Git"
+			]
+		},
+		{
 			"company": "Hygraph",
 			"title": "Sr. Full-stack Developer",
-			"years": "06.2022 - present",
+			"years": "06.2022 - 12.2022",
 			"mainTech": ["React", "GraphQL", "TypeScript", "Node"],
 			"technologies": [
 				"Golang",
