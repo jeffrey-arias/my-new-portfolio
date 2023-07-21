@@ -88,6 +88,10 @@
           "name": "Jest"
         },
         {
+					"class": "devicon-magento-original",
+					"name": "Magento2"
+				},
+        {
 					"class": "myicon-enzyme",
 					"name": "Enzyme",
           "level": "95"
