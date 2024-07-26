@@ -1,4 +1,4 @@
-@import '../src/scss/themes/theme-dark.scss';
+@import "../src/scss/themes/theme-dark.scss";
 @import '../src/scss/themes/theme-light.scss';
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
 
@@ -7,6 +7,10 @@ html {
 	-webkit-font-smoothing: antialiased;
 	margin: 0;
 	padding: 0;
+}
+
+a {
+	text-decoration: none !important;
 }
 
 .aligner {
@@ -257,7 +261,7 @@ header h1 {
 	text-align: center;
 }
 
-.main-badge {
+div span.main-badge {
 	font-size: 13px !important;
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
@@ -266,9 +270,11 @@ header h1 {
 	color: white;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	margin-right: 8px;
+	margin-bottom: 8px;
 }
 
-.experience-badge {
+div span.experience-badge {
 	font-size: 11px !important;
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
@@ -277,6 +283,8 @@ header h1 {
 	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	margin-right: 8px;
+	margin-bottom: 8px;
 }
 
 .vertical-timeline-element-date {
@@ -614,3 +622,8 @@ footer a:focus {
 // 	width: 59.5px;
 // 	background: url(./svg/reactnativeelements-ico.svg) no-repeat;
 // }
+
+.col-md-12 {
+	padding-left: 15px;
+	padding-right: 15px;
+}
