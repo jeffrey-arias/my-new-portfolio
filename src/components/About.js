@@ -5,8 +5,10 @@ import reactIcon from "@iconify/icons-logos/react";
 class About extends Component {
   render() {
     if (this.props.sharedBasicInfo) {
-      var profilepic = process.env.PUBLIC_URL+"/images/" + this.props.sharedBasicInfo.image;
-      var reactNativeLogo = process.env.PUBLIC_URL+"/images/reactNativeLogo.png";
+      var profilepic =
+        process.env.PUBLIC_URL + "/images/" + this.props.sharedBasicInfo.image;
+      var reactNativeLogo =
+        process.env.PUBLIC_URL + "/images/reactNativeLogo.png";
     }
     if (this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
@@ -35,12 +37,14 @@ class About extends Component {
                   />
                   <img
                     src={reactNativeLogo}
-                    style={{ display: "inline", height: "50%", width: "50%", margin: "9% 5% 0 5%" }}
+                    style={{
+                      display: "inline",
+                      height: "50%",
+                      width: "50%",
+                      margin: "9% 5% 0 5%",
+                    }}
+                    alt="React logo"
                   />
-                   {/* <Icon
-                    icon={nextJSIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  /> */}
                 </span>
               </div>
             </div>
