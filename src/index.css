@@ -1,0 +1,186 @@
+@import url("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css");
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-primary: #f0f4f8;
+    --bg-secondary: #ffffff;
+    --bg-accent: #9BB7D4;
+    --text-primary: #1a202c;
+    --text-secondary: #4a5568;
+    --text-muted: #718096;
+    --border-color: #e2e8f0;
+    --card-bg: #ffffff;
+    --card-shadow: 0 4px 24px rgba(0,0,0,0.08);
+    --badge-bg: #e2e8f0;
+    --badge-text: #2d3748;
+    --badge-main-bg: #339acc;
+    --badge-main-text: #fff;
+    --section-alt-bg: #339acc;
+    --section-alt-text: #ffffff;
+    --modal-bg: #ffffff;
+    --timeline-icon-bg: #339acc;
+  }
+
+  [data-theme="dark"] {
+    --bg-primary: #1a1a2e;
+    --bg-secondary: #16213e;
+    --bg-accent: #0f3460;
+    --text-primary: #e2e8f0;
+    --text-secondary: #a0aec0;
+    --text-muted: #718096;
+    --border-color: #2d3748;
+    --card-bg: #1e2a3a;
+    --card-shadow: 0 4px 24px rgba(0,0,0,0.4);
+    --badge-bg: #2d3748;
+    --badge-text: #e2e8f0;
+    --badge-main-bg: #339acc;
+    --badge-main-text: #fff;
+    --section-alt-bg: #0f3460;
+    --section-alt-text: #e2e8f0;
+    --modal-bg: #1e2a3a;
+    --timeline-icon-bg: #339acc;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg-secondary); }
+::-webkit-scrollbar-thumb { background: #339acc; border-radius: 3px; }
+
+/* Section title */
+.section-title {
+  font-size: 2rem;
+  font-weight: 700;
+  text-align: center;
+  padding: 2rem 0 1rem;
+  color: var(--text-primary);
+}
+
+/* Skill/cert cards */
+.skill-icon { display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; padding: 1rem; }
+
+/* Timeline overrides */
+.vertical-timeline::before { background: var(--border-color) !important; }
+.vertical-timeline-element-content {
+  background: var(--card-bg) !important;
+  box-shadow: var(--card-shadow) !important;
+  color: var(--text-primary) !important;
+}
+.vertical-timeline-element-content-arrow { border-right-color: var(--card-bg) !important; }
+.vertical-timeline-element-title { color: var(--text-primary) !important; }
+.vertical-timeline-element-subtitle { color: var(--text-secondary) !important; }
+.vertical-timeline-element-date { color: var(--text-muted) !important; }
+
+/* Animations */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes wave {
+  0%, 100% { transform: rotate(0deg); }
+  25% { transform: rotate(20deg); }
+  75% { transform: rotate(-10deg); }
+}
+.animate-wave { display: inline-block; animation: wave 1.5s ease-in-out infinite; }
+.fade-in-up { animation: fadeInUp 0.6s ease-out forwards; }
+
+/* Mac window card */
+.mac-window {
+  background: var(--card-bg);
+  border-radius: 12px;
+  box-shadow: var(--card-shadow);
+  overflow: hidden;
+}
+.mac-titlebar {
+  background: var(--bg-secondary);
+  padding: 10px 16px;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  border-bottom: 1px solid var(--border-color);
+}
+.mac-btn { width: 12px; height: 12px; border-radius: 50%; }
+.mac-btn-red { background: #ff5f57; }
+.mac-btn-yellow { background: #febc2e; }
+.mac-btn-green { background: #28c840; }
+
+/* Project card hover */
+.project-card {
+  background: var(--card-bg);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: var(--card-shadow);
+  cursor: pointer;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  border: 1px solid var(--border-color);
+}
+.project-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 32px rgba(51, 154, 204, 0.2);
+}
+
+/* Badge */
+.badge {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  margin: 3px;
+  background: var(--badge-bg);
+  color: var(--badge-text);
+}
+.badge-main {
+  background: var(--badge-main-bg);
+  color: var(--badge-main-text);
+}
+
+/* Modal */
+.modal-overlay {
+  position: fixed; inset: 0;
+  background: rgba(0,0,0,0.7);
+  z-index: 1000;
+  display: flex; align-items: center; justify-content: center;
+  padding: 1rem;
+}
+.modal-content {
+  background: var(--modal-bg);
+  border-radius: 16px;
+  max-width: 800px;
+  width: 100%;
+  max-height: 90vh;
+  overflow-y: auto;
+  position: relative;
+}
+
+/* Image slider */
+.slider-container { position: relative; overflow: hidden; border-radius: 8px; }
+.slider-img { width: 100%; max-height: 320px; object-fit: contain; background: #000; }
+.slider-nav-btn {
+  position: absolute; top: 50%; transform: translateY(-50%);
+  background: rgba(51,154,204,0.85); color: white;
+  border: none; border-radius: 50%; width: 36px; height: 36px;
+  cursor: pointer; font-size: 1.2rem; display: flex; align-items: center; justify-content: center;
+  transition: background 0.2s;
+}
+.slider-nav-btn:hover { background: #339acc; }
+.slider-prev { left: 8px; }
+.slider-next { right: 8px; }

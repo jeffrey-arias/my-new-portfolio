@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I am Jeffrey Arias, a mobile and web software developer. I have more than 15 years of software developmenmt experience, both corporate and freelance. I also have experience in leading a development team, small and in hardly mangeable numbers (thank God for Agile!). Javascript is my primary programming language, a.k.a. TypeScript without the safety nets. React and React-Native are my go-to front-end frameworks (libraries?). Of course I'm quite handy with CSS3 and HTML5 as well. I absolutely love using NextJS for SSR, I think it's currently the best at what it does out there. I'm most happy creating back-end apps using Node and Java, especially with GraphQL thrown in the mix to make API calls more streamlined. Serverless is the way to go for me, but you can never go wrong with Containers. Outside of work, I'm an easy going, and fun loving fella. I love dogs (especially my buddy Apollo here 👈), and am also quite the adrenaline junkie. I compete in triathlons/multisport to keep myself fit and could never pass up an opportunity to climb a mountain or hike a scenic route. All these being said, there's nothing that I love more than spending quality time with my family and friends, especially with my most adorable daughter.",
+    "description": "👋 I am Jeffrey Arias, a mobile, web, and AI-integrated software developer with more than 20 years of experience across corporate and freelance environments. I've led development teams of all sizes — from lean startups to barely manageable ones (thank God for Agile!). JavaScript is my primary language — or TypeScript when I want safety nets. React and React Native are my go-to frontend frameworks, paired with NextJS for SSR which I consider the gold standard for what it does. I'm equally comfortable with CSS3, HTML5, and modern styling systems like Tailwind. On the backend, I thrive with Node, Java and Python, and I love GraphQL for streamlined APIs. Lately I've been going deep into AI-integrated development — building LLM-powered pipelines and conversational agents using LangChain and Google's Agent Development Kit (ADK), and deploying them on Vertex AI. I find the space of autonomous agents and multi-turn conversational experiences particularly exciting. Cloud is a core part of my stack — I work extensively with GCP across Vertex AI, Cloud Run, Cloud Functions, Pub/Sub, BigQuery, and Firebase, as well as AWS and Azure for multi-cloud deployments. Outside of work, I'm an easy-going, fun-loving fella. I love dogs (especially my buddy Apollo 👈), and I'm quite the adrenaline junkie — I compete in triathlons and multisport events, and I never pass up a mountain climb or scenic hike. But nothing beats quality time with my family and my most adorable daughter. 🏔️",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -40,6 +40,18 @@
         {
           "class": "devicon-nextjs-original-wordmark",
           "name": "NextJS"
+        },
+        {
+          "class": "devicon-googlecloud-plain",
+          "name": "Vertex AI"
+        },
+        {
+          "class": "devicon-googlecloud-plain",
+          "name": "Google ADK"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "LangChain"
         },
         {
           "class": "devicon-graphql-plain",
@@ -857,15 +869,23 @@
       "company": "Templi",
       "title": "Front-end Developer",
       "years": "03.2023 - present",
-      "mainTech": ["React", "TypeScript", "NextJS", "GraphQL"],
+      "mainTech": [
+        "React",
+        "TypeScript",
+        "NextJS",
+        "Vertex AI",
+        "LangChain",
+        "GCP"
+      ],
       "technologies": [
-        "Magento 2",
+        "BigQuery",
+        "PostgreSQL",
+        "GraphQL",
+        "Magento2",
         "Material UI",
         "Tailwind",
-        "Yotpo",
-        "Klaviyo",
+        "GraphCommerce",
         "Docker",
-        "GCP",
         "AWS",
         "Git"
       ]
@@ -948,7 +968,15 @@
       "company": "Freelance",
       "title": "Full Stack Developer",
       "years": "06.2015 - Present",
-      "mainTech": ["React", "React Native", "Node", "Express"],
+      "mainTech": [
+        "React",
+        "React Native",
+        "Node",
+        "Express",
+        "LangChain",
+        "Vertex AI",
+        "AI Development"
+      ],
       "technologies": [
         "JavaScript",
         "TypeScript",
