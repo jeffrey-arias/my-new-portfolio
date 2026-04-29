@@ -623,6 +623,44 @@
     }
   ],
   "mini_projects": [
+  {
+    "title": "my-ai-portfolio",
+    "startDate": "2025",
+    "description": "A personal AI assistant powered by RAG (Retrieval-Augmented Generation). Answers questions about Jeffrey as a freelance engineer by indexing his portfolio, LinkedIn, and personal knowledge base markdown files.",
+    "role": "AI Engineer & Full-stack Developer",
+    "images": ["images/projects/my-ai-portfolio/landing.png"],
+    "url": "https://github.com/jeffrey-arias/my-ai-portfolio",
+    "technologies": [
+      {"class": "devicon-python-plain", "name": "Python"},
+      {"class": "devicon-fastapi-plain", "name": "FastAPI"},
+      {"class": "devicon-python-plain", "name": "LangGraph"},
+      {"class": "devicon-python-plain", "name": "LangChain"},
+      {"class": "devicon-googlecloud-plain", "name": "Vertex AI"},
+      {"class": "devicon-googlecloud-plain", "name": "ChromaDB"},
+      {"class": "devicon-nextjs-original-wordmark", "name": "Next.js"},
+      {"class": "devicon-typescript-plain", "name": "TypeScript"},
+      {"class": "devicon-tailwindcss-plain", "name": "Tailwind"},
+      {"class": "devicon-googlecloud-plain", "name": "Cloud Run"},
+      {"class": "devicon-github-original", "name": "GitHub Actions"}
+    ]
+  },
+  {
+    "title": "my-new-portfolio",
+    "startDate": "2025",
+    "description": "Personal developer portfolio refactored from a Create React App class-component setup to a fully modern stack. Features light/dark theme, scroll-reveal animations, project modals with image sliders, vertical timeline experience section, and automated CI/CD deployment via GitHub Actions to GitHub Pages.",
+    "role": "Front-end Developer",
+    "images": ["images/projects/my-new-portfolio/landing.png"],
+    "url": "https://jeffrey-arias.github.io/my-new-portfolio",
+    "technologies": [
+      {"class": "devicon-react-plain", "name": "React 18"},
+      {"class": "devicon-vitejs-plain", "name": "Vite"},
+      {"class": "devicon-tailwindcss-plain", "name": "Tailwind CSS"},
+      {"class": "devicon-framermotion-original", "name": "Framer Motion"},
+      {"class": "devicon-github-original", "name": "GitHub Actions"}
+    ]
+  },
+  {
+    "title": "React Native Uber",
     {
       "title": "React Native Uber",
       "startDate": "2023",
