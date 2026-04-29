@@ -29,54 +29,18 @@
       "role": "Front-end developer",
       "url": "https://templi.com",
       "technologies": [
-        {
-          "class": "devicon-react-plain",
-          "name": "React"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-nextjs-original-wordmark",
-          "name": "NextJS"
-        },
-        {
-          "class": "devicon-googlecloud-plain",
-          "name": "Vertex AI"
-        },
-        {
-          "class": "devicon-googlecloud-plain",
-          "name": "Google ADK"
-        },
-        {
-          "class": "devicon-python-plain",
-          "name": "LangChain"
-        },
-        {
-          "class": "devicon-graphql-plain",
-          "name": "GraphQL"
-        },
-        {
-          "class": "devicon-magento-original",
-          "name": "Magento2"
-        },
-        {
-          "class": "devicon-tailwindcss-plain",
-          "name": "Tailwind"
-        },
-        {
-          "class": "devicon-jest-plain",
-          "name": "Jest+Enzyme"
-        },
-        {
-          "class": "devicon-docker-plain",
-          "name": "Docker"
-        },
-        {
-          "class": "devicon-github-original",
-          "name": "GitHub"
-        }
+        { "class": "devicon-react-plain", "name": "React" },
+        { "class": "devicon-typescript-plain", "name": "TypeScript" },
+        { "class": "devicon-nextjs-original-wordmark", "name": "NextJS" },
+        { "class": "devicon-googlecloud-plain", "name": "Vertex AI" },
+        { "class": "devicon-googlecloud-plain", "name": "Google ADK" },
+        { "class": "devicon-python-plain", "name": "LangChain" },
+        { "class": "devicon-graphql-plain", "name": "GraphQL" },
+        { "class": "devicon-magento-original", "name": "Magento2" },
+        { "class": "devicon-tailwindcss-plain", "name": "Tailwind" },
+        { "class": "devicon-jest-plain", "name": "Jest+Enzyme" },
+        { "class": "devicon-docker-plain", "name": "Docker" },
+        { "class": "devicon-github-original", "name": "GitHub" }
       ]
     },
     {
@@ -93,52 +57,17 @@
       "role": "Sr Full-stack developer",
       "url": "https://hygraph.com",
       "technologies": [
-        {
-          "class": "devicon-nodejs-plain",
-          "name": "Node"
-        },
-        {
-          "class": "devicon-react-plain",
-          "name": "React"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-go-original-wordmark",
-          "name": "Golang"
-        },
-        {
-          "class": "devicon-graphql-plain",
-          "name": "GraphQL"
-        },
-        {
-          "class": "devicon-jest-plain",
-          "name": "Jest+Enzyme"
-        },
-        {
-          "class": "devicon-docker-plain",
-          "name": "Docker"
-        },
-
-        {
-          "class": "devicon-redis-plain",
-          "name": "Redis"
-        },
-
-        {
-          "class": "devicon-postgresql-plain",
-          "name": "PostgreSQL"
-        },
-        {
-          "class": "devicon-amazonwebservices-original",
-          "name": "AWS"
-        },
-        {
-          "class": "devicon-github-original",
-          "name": "GitHub"
-        }
+        { "class": "devicon-nodejs-plain", "name": "Node" },
+        { "class": "devicon-react-plain", "name": "React" },
+        { "class": "devicon-typescript-plain", "name": "TypeScript" },
+        { "class": "devicon-go-original-wordmark", "name": "Golang" },
+        { "class": "devicon-graphql-plain", "name": "GraphQL" },
+        { "class": "devicon-jest-plain", "name": "Jest+Enzyme" },
+        { "class": "devicon-docker-plain", "name": "Docker" },
+        { "class": "devicon-redis-plain", "name": "Redis" },
+        { "class": "devicon-postgresql-plain", "name": "PostgreSQL" },
+        { "class": "devicon-amazonwebservices-original", "name": "AWS" },
+        { "class": "devicon-github-original", "name": "GitHub" }
       ]
     },
     {
@@ -154,50 +83,20 @@
       "role": "Sr. Full-stack developer",
       "url": "https://cloudmonitor.ai/",
       "technologies": [
-        {
-          "class": "devicon-react-plain",
-          "name": "React"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-redux-original",
-          "name": "MobX"
-        },
-        {
-          "class": "devicon-jest-plain",
-          "name": "Jest+Enzyme"
-        },
-        {
-          "class": "devicon-materialui-plain",
-          "name": "MaterialUI"
-        },
-        {
-          "class": "devicon-dotnetcore-plain",
-          "name": ".Net Core"
-        },
+        { "class": "devicon-react-plain", "name": "React" },
+        { "class": "devicon-typescript-plain", "name": "TypeScript" },
+        { "class": "devicon-redux-original", "name": "MobX" },
+        { "class": "devicon-jest-plain", "name": "Jest+Enzyme" },
+        { "class": "devicon-materialui-plain", "name": "MaterialUI" },
+        { "class": "devicon-dotnetcore-plain", "name": ".Net Core" },
         {
           "class": "devicon-microsoftsqlserver-plain",
           "name": "MS SQL Server"
         },
-        {
-          "class": "devicon-azure-plain",
-          "name": "Azure"
-        },
-        {
-          "class": "devicon-googlecloud-plain",
-          "name": "Google Cloud"
-        },
-        {
-          "class": "devicon-amazonwebservices-original",
-          "name": "AWS"
-        },
-        {
-          "class": "devicon-github-original",
-          "name": "GitHub"
-        }
+        { "class": "devicon-azure-plain", "name": "Azure" },
+        { "class": "devicon-googlecloud-plain", "name": "Google Cloud" },
+        { "class": "devicon-amazonwebservices-original", "name": "AWS" },
+        { "class": "devicon-github-original", "name": "GitHub" }
       ]
     },
     {
@@ -214,42 +113,15 @@
       "role": "Sr. Full-stack developer",
       "url": "https://www.theplate.org",
       "technologies": [
-        {
-          "class": "devicon-react-plain",
-          "name": "React Native"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-jest-plain",
-          "name": "Jest+Enzyme"
-        },
-        {
-          "class": "devicon-symfony-original",
-          "name": "Symfony"
-        },
-        {
-          "class": "devicon-mysql-plain",
-          "name": "MySQL"
-        },
-        {
-          "class": "devicon-docker-plain",
-          "name": "Docker"
-        },
-        {
-          "class": "devicon-firebase-plain",
-          "name": "Firebase"
-        },
-        {
-          "class": "devicon-github-original",
-          "name": "GitHub"
-        },
-        {
-          "class": "devicon-figma-plain",
-          "name": "Figma"
-        }
+        { "class": "devicon-react-plain", "name": "React Native" },
+        { "class": "devicon-javascript-plain", "name": "JavaScript" },
+        { "class": "devicon-jest-plain", "name": "Jest+Enzyme" },
+        { "class": "devicon-symfony-original", "name": "Symfony" },
+        { "class": "devicon-mysql-plain", "name": "MySQL" },
+        { "class": "devicon-docker-plain", "name": "Docker" },
+        { "class": "devicon-firebase-plain", "name": "Firebase" },
+        { "class": "devicon-github-original", "name": "GitHub" },
+        { "class": "devicon-figma-plain", "name": "Figma" }
       ]
     },
     {
@@ -266,46 +138,16 @@
       "role": "Sr. Front-end developer",
       "url": "https://vimeo.com/321655380",
       "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-jest-plain",
-          "name": "Jest+Enzyme"
-        },
-        {
-          "class": "devicon-materialui-plain",
-          "name": "MaterialUI"
-        },
-        {
-          "class": "devicon-graphql-plain",
-          "name": "GraphQL"
-        },
-        {
-          "class": "devicon-rails-plain",
-          "name": "Ruby on Rails"
-        },
-        {
-          "class": "devicon-postgresql-plain",
-          "name": "PostgreSQL"
-        },
-        {
-          "class": "devicon-docker-plain",
-          "name": "Docker"
-        },
-        {
-          "class": "devicon-github-original",
-          "name": "GitHub"
-        },
-        {
-          "class": "devicon-xd-plain",
-          "name": "Xd"
-        }
+        { "class": "devicon-react-original", "name": "React" },
+        { "class": "devicon-javascript-plain", "name": "JavaScript" },
+        { "class": "devicon-jest-plain", "name": "Jest+Enzyme" },
+        { "class": "devicon-materialui-plain", "name": "MaterialUI" },
+        { "class": "devicon-graphql-plain", "name": "GraphQL" },
+        { "class": "devicon-rails-plain", "name": "Ruby on Rails" },
+        { "class": "devicon-postgresql-plain", "name": "PostgreSQL" },
+        { "class": "devicon-docker-plain", "name": "Docker" },
+        { "class": "devicon-github-original", "name": "GitHub" },
+        { "class": "devicon-xd-plain", "name": "Xd" }
       ]
     },
     {
@@ -321,58 +163,19 @@
       "role": "Sr. Full-stack developer",
       "url": "https://play.google.com/store/apps/details?id=ph.com.starpay.wallet&hl=en&gl=US",
       "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-jest-plain",
-          "name": "Jest+Enzyme"
-        },
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-nodejs-plain",
-          "name": "NodeJS"
-        },
-        {
-          "class": "devicon-java-plain",
-          "name": "Java"
-        },
-        {
-          "class": "devicon-spring-plain",
-          "name": "Spring Boot"
-        },
-        {
-          "class": "devicon-mysql-plain",
-          "name": "MySQL"
-        },
-        {
-          "class": "devicon-docker-plain",
-          "name": "Docker"
-        },
-        {
-          "class": "devicon-firebase-plain",
-          "name": "Firebase"
-        },
-        {
-          "class": "devicon-amazonwebservices-original",
-          "name": "AWS"
-        },
-        {
-          "class": "devicon-gitlab-plain",
-          "name": "GitLab"
-        }
+        { "class": "devicon-react-original", "name": "React" },
+        { "class": "devicon-javascript-plain", "name": "JavaScript" },
+        { "class": "devicon-jest-plain", "name": "Jest+Enzyme" },
+        { "class": "devicon-angularjs-plain", "name": "Angular" },
+        { "class": "devicon-typescript-plain", "name": "TypeScript" },
+        { "class": "devicon-nodejs-plain", "name": "NodeJS" },
+        { "class": "devicon-java-plain", "name": "Java" },
+        { "class": "devicon-spring-plain", "name": "Spring Boot" },
+        { "class": "devicon-mysql-plain", "name": "MySQL" },
+        { "class": "devicon-docker-plain", "name": "Docker" },
+        { "class": "devicon-firebase-plain", "name": "Firebase" },
+        { "class": "devicon-amazonwebservices-original", "name": "AWS" },
+        { "class": "devicon-gitlab-plain", "name": "GitLab" }
       ]
     },
     {
@@ -383,38 +186,17 @@
       "role": "Sr. Full-stack developer",
       "url": "https://www.wellsfargo.com/",
       "technologies": [
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-jquery-plain",
-          "name": "Jquery"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain"
-        },
-        {
-          "class": "devicon-java-plain",
-          "name": "Java / JEE"
-        },
-        {
-          "class": "devicon-java-plain",
-          "name": "Java REST API"
-        },
-        {
-          "class": "devicon-spring-plain",
-          "name": "Spring Boot"
-        },
+        { "class": "devicon-javascript-plain", "name": "JavaScript" },
+        { "class": "devicon-jquery-plain", "name": "Jquery" },
+        { "name": "CSS 3", "class": "devicon-css3-plain" },
+        { "class": "devicon-java-plain", "name": "Java / JEE" },
+        { "class": "devicon-java-plain", "name": "Java REST API" },
+        { "class": "devicon-spring-plain", "name": "Spring Boot" },
         {
           "class": "devicon-microsoftsqlserver-plain",
           "name": "MS SQL Server"
         },
-        {
-          "class": "devicon-tortoisegit-plain",
-          "name": "SVN"
-        }
+        { "class": "devicon-tortoisegit-plain", "name": "SVN" }
       ]
     },
     {
@@ -424,26 +206,11 @@
       "images": ["images/projects/cmd/cmd.jpeg"],
       "role": "Lead Full-stack developer",
       "technologies": [
-        {
-          "class": "devicon-java-plain",
-          "name": "Java/JEE"
-        },
-        {
-          "class": "devicon-java-plain",
-          "name": "Java REST API"
-        },
-        {
-          "class": "devicon-java-plain",
-          "name": "Java SOAP"
-        },
-        {
-          "class": "devicon-spring-plain",
-          "name": "Spring"
-        },
-        {
-          "class": "devicon-tortoisegit-plain",
-          "name": "SVN"
-        }
+        { "class": "devicon-java-plain", "name": "Java/JEE" },
+        { "class": "devicon-java-plain", "name": "Java REST API" },
+        { "class": "devicon-java-plain", "name": "Java SOAP" },
+        { "class": "devicon-spring-plain", "name": "Spring" },
+        { "class": "devicon-tortoisegit-plain", "name": "SVN" }
       ]
     },
     {
@@ -458,46 +225,16 @@
       "role": "Lead Full-stack developer",
       "url": "https://www.infor.com/solutions/financials/enterprise-performance-management",
       "technologies": [
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-jquery-plain",
-          "name": "Jquery"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain"
-        },
-        {
-          "class": "devicon-java-plain",
-          "name": "Java/JEE"
-        },
-        {
-          "class": "devicon-java-plain",
-          "name": "Java SOAP API"
-        },
-        {
-          "class": "devicon-java-plain",
-          "name": "Java Server Faces"
-        },
-        {
-          "class": "devicon-spring-plain",
-          "name": "Spring"
-        },
-        {
-          "class": "devicon-perl-plain",
-          "name": "Perl"
-        },
-        {
-          "name": "Oracle DB",
-          "class": "devicon-oracle-original"
-        },
-        {
-          "class": "devicon-tortoisegit-plain",
-          "name": "SVN"
-        }
+        { "class": "devicon-javascript-plain", "name": "JavaScript" },
+        { "class": "devicon-jquery-plain", "name": "Jquery" },
+        { "name": "CSS 3", "class": "devicon-css3-plain" },
+        { "class": "devicon-java-plain", "name": "Java/JEE" },
+        { "class": "devicon-java-plain", "name": "Java SOAP API" },
+        { "class": "devicon-java-plain", "name": "Java Server Faces" },
+        { "class": "devicon-spring-plain", "name": "Spring" },
+        { "class": "devicon-perl-plain", "name": "Perl" },
+        { "name": "Oracle DB", "class": "devicon-oracle-original" },
+        { "class": "devicon-tortoisegit-plain", "name": "SVN" }
       ]
     },
     {
@@ -507,22 +244,10 @@
       "images": ["images/projects/cmd/cmd.jpeg"],
       "role": "Software Developer",
       "technologies": [
-        {
-          "class": "devicon-java-plain",
-          "name": "Java"
-        },
-        {
-          "class": "devicon-spring-plain",
-          "name": "Spring"
-        },
-        {
-          "class": "devicon-spring-plain",
-          "name": "Spring DAO"
-        },
-        {
-          "class": "devicon-tortoisegit-plain",
-          "name": "SVN"
-        }
+        { "class": "devicon-java-plain", "name": "Java" },
+        { "class": "devicon-spring-plain", "name": "Spring" },
+        { "class": "devicon-spring-plain", "name": "Spring DAO" },
+        { "class": "devicon-tortoisegit-plain", "name": "SVN" }
       ]
     },
     {
@@ -533,50 +258,20 @@
       "role": "Software Developer",
       "url": "https://www.pitneybowes.com/us",
       "technologies": [
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-jquery-plain",
-          "name": "Jquery"
-        },
-        {
-          "name": "CSS",
-          "class": "devicon-css3-plain"
-        },
-        {
-          "class": "devicon-java-plain",
-          "name": "Java/JEE"
-        },
-        {
-          "class": "devicon-java-plain",
-          "name": "Java REST API"
-        },
-        {
-          "class": "devicon-java-plain",
-          "name": "Struts 2"
-        },
-        {
-          "class": "devicon-spring-plain",
-          "name": "Spring"
-        },
-        {
-          "class": "devicon-mysql-plain",
-          "name": "MySQL"
-        },
+        { "class": "devicon-javascript-plain", "name": "JavaScript" },
+        { "class": "devicon-jquery-plain", "name": "Jquery" },
+        { "name": "CSS", "class": "devicon-css3-plain" },
+        { "class": "devicon-java-plain", "name": "Java/JEE" },
+        { "class": "devicon-java-plain", "name": "Java REST API" },
+        { "class": "devicon-java-plain", "name": "Struts 2" },
+        { "class": "devicon-spring-plain", "name": "Spring" },
+        { "class": "devicon-mysql-plain", "name": "MySQL" },
         {
           "class": "devicon-microsoftsqlserver-plain",
           "name": "MS SQL Server"
         },
-        {
-          "name": "Oracle DB",
-          "class": "devicon-oracle-original"
-        },
-        {
-          "class": "devicon-tortoisegit-plain",
-          "name": "SVN"
-        }
+        { "name": "Oracle DB", "class": "devicon-oracle-original" },
+        { "class": "devicon-tortoisegit-plain", "name": "SVN" }
       ]
     },
     {
@@ -587,80 +282,36 @@
       "role": "Jr. Software Developer",
       "url": "https://download.cnet.com/developer/solegy/i-6289633",
       "technologies": [
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "name": "CSS",
-          "class": "devicon-css3-plain"
-        },
-        {
-          "class": "devicon-java-plain",
-          "name": "Java/JEE"
-        },
-        {
-          "class": "devicon-java-plain",
-          "name": "Java REST API"
-        },
-        {
-          "class": "devicon-java-plain",
-          "name": "Struts"
-        },
-        {
-          "class": "devicon-mysql-plain",
-          "name": "MySQL"
-        },
-        {
-          "name": "Oracle DB",
-          "class": "devicon-oracle-original"
-        },
-        {
-          "class": "devicon-tortoisegit-plain",
-          "name": "CVS"
-        }
+        { "class": "devicon-javascript-plain", "name": "JavaScript" },
+        { "name": "CSS", "class": "devicon-css3-plain" },
+        { "class": "devicon-java-plain", "name": "Java/JEE" },
+        { "class": "devicon-java-plain", "name": "Java REST API" },
+        { "class": "devicon-java-plain", "name": "Struts" },
+        { "class": "devicon-mysql-plain", "name": "MySQL" },
+        { "name": "Oracle DB", "class": "devicon-oracle-original" },
+        { "class": "devicon-tortoisegit-plain", "name": "CVS" }
       ]
     }
   ],
   "mini_projects": [
-  {
-    "title": "my-ai-portfolio",
-    "startDate": "2025",
-    "description": "A personal AI assistant powered by RAG (Retrieval-Augmented Generation). Answers questions about Jeffrey as a freelance engineer by indexing his portfolio, LinkedIn, and personal knowledge base markdown files.",
-    "role": "AI Engineer & Full-stack Developer",
-    "images": ["images/projects/my-ai-portfolio/landing.png"],
-    "url": "https://github.com/jeffrey-arias/my-ai-portfolio",
-    "technologies": [
-      {"class": "devicon-python-plain", "name": "Python"},
-      {"class": "devicon-fastapi-plain", "name": "FastAPI"},
-      {"class": "devicon-python-plain", "name": "LangGraph"},
-      {"class": "devicon-python-plain", "name": "LangChain"},
-      {"class": "devicon-googlecloud-plain", "name": "Vertex AI"},
-      {"class": "devicon-googlecloud-plain", "name": "ChromaDB"},
-      {"class": "devicon-nextjs-original-wordmark", "name": "Next.js"},
-      {"class": "devicon-typescript-plain", "name": "TypeScript"},
-      {"class": "devicon-tailwindcss-plain", "name": "Tailwind"},
-      {"class": "devicon-googlecloud-plain", "name": "Cloud Run"},
-      {"class": "devicon-github-original", "name": "GitHub Actions"}
-    ]
-  },
-  {
-    "title": "my-new-portfolio",
-    "startDate": "2025",
-    "description": "Personal developer portfolio refactored from a Create React App class-component setup to a fully modern stack. Features light/dark theme, scroll-reveal animations, project modals with image sliders, vertical timeline experience section, and automated CI/CD deployment via GitHub Actions to GitHub Pages.",
-    "role": "Front-end Developer",
-    "images": ["images/projects/my-new-portfolio/landing.png"],
-    "url": "https://jeffrey-arias.github.io/my-new-portfolio",
-    "technologies": [
-      {"class": "devicon-react-plain", "name": "React 18"},
-      {"class": "devicon-vitejs-plain", "name": "Vite"},
-      {"class": "devicon-tailwindcss-plain", "name": "Tailwind CSS"},
-      {"class": "devicon-framermotion-original", "name": "Framer Motion"},
-      {"class": "devicon-github-original", "name": "GitHub Actions"}
-    ]
-  },
-  {
-    "title": "React Native Uber",
+    {
+      "title": "my-new-portfolio",
+      "startDate": "2025",
+      "description": "Personal developer portfolio refactored from a Create React App class-component setup to a fully modern stack. Features light/dark theme, scroll-reveal animations, project modals with image sliders, vertical timeline experience section, and automated CI/CD deployment via GitHub Actions to GitHub Pages.",
+      "role": "Front-end Developer",
+      "images": [
+        "images/projects/my-new-portfolio/dark.png",
+        "images/projects/my-new-portfolio/light.png"
+      ],
+      "url": "https://jeffrey-arias.github.io/my-new-portfolio",
+      "technologies": [
+        { "class": "devicon-react-plain", "name": "React 18" },
+        { "class": "devicon-vitejs-plain", "name": "Vite" },
+        { "class": "devicon-tailwindcss-plain", "name": "Tailwind CSS" },
+        { "class": "devicon-framermotion-original", "name": "Framer Motion" },
+        { "class": "devicon-github-original", "name": "GitHub Actions" }
+      ]
+    },
     {
       "title": "React Native Uber",
       "startDate": "2023",
@@ -674,34 +325,13 @@
       ],
       "url": "https://github.com/jeffrey-arias/my-uber-clone/",
       "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React Native"
-        },
-        {
-          "class": "devicon-redux-original",
-          "name": "Redux"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "myicon-expo-dark",
-          "name": "Expo"
-        },
-        {
-          "class": "devicon-tailwindcss-plain",
-          "name": "Tailwind"
-        },
-        {
-          "class": "devicon-googlecloud-plain",
-          "name": "Google Cloud"
-        },
-        {
-          "class": "devicon-github-original",
-          "name": "GitHub"
-        }
+        { "class": "devicon-react-original", "name": "React Native" },
+        { "class": "devicon-redux-original", "name": "Redux" },
+        { "class": "devicon-javascript-plain", "name": "JavaScript" },
+        { "class": "myicon-expo-dark", "name": "Expo" },
+        { "class": "devicon-tailwindcss-plain", "name": "Tailwind" },
+        { "class": "devicon-googlecloud-plain", "name": "Google Cloud" },
+        { "class": "devicon-github-original", "name": "GitHub" }
       ]
     },
     {
@@ -715,22 +345,10 @@
       ],
       "url": "https://github.com/jeffrey-arias/my-vanilla-js-css-html",
       "technologies": [
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "name": "CSS3",
-          "class": "devicon-css3-plain"
-        },
-        {
-          "name": "HTML5",
-          "class": "devicon-html5-plain"
-        },
-        {
-          "class": "devicon-github-original",
-          "name": "GitHub"
-        }
+        { "class": "devicon-javascript-plain", "name": "JavaScript" },
+        { "name": "CSS3", "class": "devicon-css3-plain" },
+        { "name": "HTML5", "class": "devicon-html5-plain" },
+        { "class": "devicon-github-original", "name": "GitHub" }
       ]
     },
     {
@@ -744,22 +362,13 @@
       ],
       "url": "https://github.com/jeffrey-arias/my-sapiaai-menu",
       "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
+        { "class": "devicon-react-original", "name": "React" },
         {
           "class": "myicon-styledcomponents-dark",
           "name": "Styled Components"
         },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-jest-plain",
-          "name": "Jest+Enzyme"
-        }
+        { "class": "devicon-typescript-plain", "name": "TypeScript" },
+        { "class": "devicon-jest-plain", "name": "Jest+Enzyme" }
       ]
     },
     {
@@ -773,36 +382,18 @@
       ],
       "url": "https://github.com/jeffrey-arias/pokedex-react-graphql",
       "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
-        {
-          "class": "devicon-graphql-plain",
-          "name": "GraphQL"
-        },
-        {
-          "class": "myicon-apollo-dark",
-          "name": "Apollo"
-        },
-        {
-          "class": "devicon-materialui-plain",
-          "name": "MaterialUI"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-github-original",
-          "name": "GitHub"
-        }
+        { "class": "devicon-react-original", "name": "React" },
+        { "class": "devicon-graphql-plain", "name": "GraphQL" },
+        { "class": "myicon-apollo-dark", "name": "Apollo" },
+        { "class": "devicon-materialui-plain", "name": "MaterialUI" },
+        { "class": "devicon-javascript-plain", "name": "JavaScript" },
+        { "class": "devicon-github-original", "name": "GitHub" }
       ]
     },
     {
       "title": "React NextJS Woof App",
       "startDate": "2020",
-      "description": "A responsive Typescript app that implements server-side rendering through NextJS. ",
+      "description": "A responsive Typescript app that implements server-side rendering through NextJS.",
       "images": [
         "images/projects/woof/p1.png",
         "images/projects/woof/p2.png",
@@ -817,42 +408,15 @@
       "url": "https://github.com/jeffrey-arias/nextjs-woof-app",
       "role": "Full-stack developer",
       "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
-        {
-          "class": "devicon-materialui-plain",
-          "name": "MaterialUI"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-jest-plain",
-          "name": "Jest+Enzyme"
-        },
-        {
-          "class": "devicon-nextjs-original-wordmark",
-          "name": "NextJS"
-        },
-        {
-          "class": "devicon-sequelize-plain",
-          "name": "Sequelize"
-        },
-        {
-          "class": "devicon-docker-plain",
-          "name": "Docker"
-        },
-        {
-          "class": "devicon-postgresql-plain",
-          "name": "PostgreSQL"
-        },
-        {
-          "class": "devicon-github-original",
-          "name": "GitHub"
-        }
+        { "class": "devicon-react-original", "name": "React" },
+        { "class": "devicon-materialui-plain", "name": "MaterialUI" },
+        { "class": "devicon-typescript-plain", "name": "TypeScript" },
+        { "class": "devicon-jest-plain", "name": "Jest+Enzyme" },
+        { "class": "devicon-nextjs-original-wordmark", "name": "NextJS" },
+        { "class": "devicon-sequelize-plain", "name": "Sequelize" },
+        { "class": "devicon-docker-plain", "name": "Docker" },
+        { "class": "devicon-postgresql-plain", "name": "PostgreSQL" },
+        { "class": "devicon-github-original", "name": "GitHub" }
       ]
     },
     {
@@ -867,38 +431,14 @@
       "url": "https://github.com/jeffrey-arias/xls-merger-react",
       "role": "Full-stack developer",
       "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
-        {
-          "class": "devicon-redux-original",
-          "name": "Redux-Thunk"
-        },
-        {
-          "class": "devicon-materialui-plain",
-          "name": "MaterialUI"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-sass-original",
-          "name": "Sass"
-        },
-        {
-          "class": "devicon-java-plain",
-          "name": "Java"
-        },
-        {
-          "class": "devicon-spring-plain",
-          "name": "Spring Boot"
-        },
-        {
-          "class": "devicon-github-original",
-          "name": "GitHub"
-        }
+        { "class": "devicon-react-original", "name": "React" },
+        { "class": "devicon-redux-original", "name": "Redux-Thunk" },
+        { "class": "devicon-materialui-plain", "name": "MaterialUI" },
+        { "class": "devicon-javascript-plain", "name": "JavaScript" },
+        { "class": "devicon-sass-original", "name": "Sass" },
+        { "class": "devicon-java-plain", "name": "Java" },
+        { "class": "devicon-spring-plain", "name": "Spring Boot" },
+        { "class": "devicon-github-original", "name": "GitHub" }
       ]
     }
   ],
@@ -1150,7 +690,7 @@
     {
       "title": "AZ-900: Microsoft Azure Fundamentals",
       "body": "Microsoft",
-      "date": "Jun 2002",
+      "date": "Jun 2022",
       "id": "992889560"
     }
   ]
