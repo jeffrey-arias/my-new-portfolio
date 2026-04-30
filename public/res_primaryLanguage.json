@@ -8,11 +8,45 @@
       "mini_projects": "Personal Projects",
       "skills": "Skills",
       "experience": "Experience",
-      "certifications": "Certifications"
+      "certifications": "Achievements & Recognition"
     },
     "react_label": "This site is made with"
   },
   "projects": [
+    {
+      "title": "MedDigest LLC",
+      "startDate": "2024",
+      "description": "A secure, professional online community platform for verified medical professionals. Features include clinical case discussions with strict anonymization, research and guideline sharing, cross-specialty networking, and collaboration on education and medical initiatives.",
+      "images": [
+        "images/projects/meddigest/landing.png",
+        "images/projects/meddigest/wd1.png",
+        "images/projects/meddigest/wd2.png"
+      ],
+      "role": "Full-stack WordPress Developer",
+      "url": "https://www.upwork.com/freelancers/~01c07c5c5da103d448?p=2007500016515706880",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "WordPress"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-buddypress-plain",
+          "name": "BuddyBoss"
+        },
+        {
+          "class": "devicon-github-original",
+          "name": "CI/CD"
+        }
+      ]
+    },
     {
       "title": "Templi",
       "startDate": "2023",
@@ -687,6 +721,12 @@
     }
   ],
   "certifications": [
+    {
+      "title": "Toptal Network Member",
+      "body": "Top 3% of Global Software Developers",
+      "date": "Active",
+      "id": "Full-stack Development"
+    },
     {
       "title": "AZ-900: Microsoft Azure Fundamentals",
       "body": "Microsoft",

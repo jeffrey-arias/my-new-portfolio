@@ -53,6 +53,9 @@
         "class": "devicon-nextjs-plain-wordmark",
         "level": "100"
       },
+      { "class": "devicon-python-plain", "name": "Python", "level": "100" },
+      { "class": "devicon-fastapi-plain", "name": "FastAPI", "level": "100" },
+
       {
         "name": "Vertex AI",
         "class": "devicon-googlecloud-plain",
@@ -63,6 +66,8 @@
         "class": "devicon-python-plain",
         "level": "80"
       },
+      { "class": "devicon-googlecloud-plain", "name": "LangGraph" },
+
       {
         "name": "Google ADK",
         "class": "devicon-googlecloud-plain",
@@ -123,6 +128,13 @@
         "class": "devicon-sequelize-plain",
         "name": "Sequelize"
       },
+      {
+        "class": "devicon-wordpress-plain",
+        "name": "WordPress",
+        "level": "95"
+      },
+      { "class": "devicon-vitejs-plain", "name": "Vite", "level": "95" },
+
       {
         "class": "devicon-jest-plain",
         "name": "Jest"
@@ -256,6 +268,11 @@
         "name": "MySql",
         "class": "devicon-mysql-plain",
         "level": "60"
+      },
+      {
+        "class": "devicon-googlecloud-plain",
+        "name": "ChromaDB",
+        "level": "100"
       },
       {
         "name": "PostgreSQL",
