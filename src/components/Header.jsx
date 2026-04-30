@@ -82,15 +82,8 @@ export default function Header({ basicInfo }) {
         {/* Social links */}
         <div className="flex gap-4 justify-center flex-wrap">
           {social.map(s => (
-            <a
-              key={s.name}
-              href={s.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-3xl transition-transform hover:scale-125 hover:-translate-y-1"
-              title={s.name}
-            >
-              <i className={s.class} />
+            <a key={s.name} href={s.url} target="_blank" rel="noopener noreferrer">
+              <Icon icon={s.icon} style={{ fontSize: '2rem' }} />
             </a>
           ))}
         </div>
