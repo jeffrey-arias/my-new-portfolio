@@ -27,33 +27,44 @@ export default function Skills({ sharedSkills, resumeBasicInfo }) {
           {sectionName}
         </h2>
 
-        <div className="flex flex-wrap justify-center gap-5 mt-10">
+        <div className="flex flex-wrap justify-center gap-4 mt-10">
           {icons.map((skill, i) => (
             <div
               key={`${skill.name}-${i}`}
               title={skill.alt || skill.name}
-              className="flex flex-col items-center justify-center gap-1 cursor-default group"
+              className="flex flex-col items-center justify-center cursor-default"
               style={{
                 background: 'rgba(255,255,255,0.12)',
                 borderRadius: 12,
-                padding: '12px 14px',
-                minWidth: 72,
+                width: 90,
+                height: 90,
+                flexShrink: 0,
                 backdropFilter: 'blur(4px)',
                 border: '1px solid rgba(255,255,255,0.2)',
                 transition: `opacity 0.4s ease ${i * 0.02}s, transform 0.4s ease ${i * 0.02}s, background 0.2s`,
                 opacity: visible ? 1 : 0,
                 transform: visible ? 'none' : 'translateY(20px)',
+                gap: 6,
+                padding: '0 6px',
               }}
               onMouseEnter={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.25)' }}
               onMouseLeave={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.12)' }}
             >
               <i
                 className={skill.class}
-                style={{ fontSize: '2.2rem', color: '#fff', display: 'block' }}
+                style={{ fontSize: '2.2rem', color: '#fff', display: 'block', flexShrink: 0 }}
               />
               <span
                 className="text-center font-medium text-white"
-                style={{ fontSize: '0.6rem', maxWidth: 64, lineHeight: 1.3 }}
+                style={{
+                  fontSize: '0.58rem',
+                  lineHeight: 1.3,
+                  width: '100%',
+                  overflow: 'hidden',
+                  display: '-webkit-box',
+                  WebkitLineClamp: 2,
+                  WebkitBoxOrient: 'vertical',
+                }}
               >
                 {skill.alt || skill.name}
               </span>

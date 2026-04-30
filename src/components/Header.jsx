@@ -113,12 +113,9 @@ export default function Header({ basicInfo }) {
 
       {/* Scroll indicator */}
       <div
-        className="absolute bottom-8 flex flex-col items-center gap-1 opacity-60 pointer-events-none"
+        className="absolute bottom-8 flex flex-col items-center gap-1 scale-250 opacity-60 pointer-events-none"
         style={{ animation: 'bounce 2s infinite', left: '50%', transform: 'translateX(-50%)' }}
       >
-        <span className="text-sm font-medium" style={{ color: isDark ? '#a0aec0' : '#4a5568' }}>
-          scroll
-        </span>
         <span style={{ color: isDark ? '#a0aec0' : '#4a5568' }}>↓</span>
       </div>
 
