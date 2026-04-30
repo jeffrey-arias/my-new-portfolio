@@ -9,19 +9,24 @@
     ],
     "social": [
       {
-        "name": "github",
+        "name": "GitHub",
         "url": "https://github.com/jeffrey-arias",
-        "class": "fab devicon-github-original"
+        "icon": "mdi:github"
       },
       {
-        "name": "linkedin",
+        "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/jeffrey-arias-20b267200",
-        "class": "fab devicon-linkedin-plain"
+        "icon": "mdi:linkedin"
       },
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/jeff.arias15",
-        "class": "fab devicon-facebook-plain"
+        "name": "Toptal",
+        "url": "https://talent.toptal.com/resume/developers/jeffrey-arias",
+        "icon": "simple-icons:toptal"
+      },
+      {
+        "name": "Upwork",
+        "url": "https://www.upwork.com/freelancers/~01c07c5c5da103d448",
+        "icon": "simple-icons:upwork"
       }
     ],
     "image": "myProfile.jpg"
@@ -53,6 +58,9 @@
         "class": "devicon-nextjs-plain-wordmark",
         "level": "100"
       },
+      { "class": "devicon-python-plain", "name": "Python", "level": "100" },
+      { "class": "devicon-fastapi-plain", "name": "FastAPI", "level": "100" },
+
       {
         "name": "Vertex AI",
         "class": "devicon-googlecloud-plain",
@@ -63,6 +71,8 @@
         "class": "devicon-python-plain",
         "level": "80"
       },
+      { "class": "devicon-googlecloud-plain", "name": "LangGraph" },
+
       {
         "name": "Google ADK",
         "class": "devicon-googlecloud-plain",
@@ -123,6 +133,13 @@
         "class": "devicon-sequelize-plain",
         "name": "Sequelize"
       },
+      {
+        "class": "devicon-wordpress-plain",
+        "name": "WordPress",
+        "level": "95"
+      },
+      { "class": "devicon-vitejs-plain", "name": "Vite", "level": "95" },
+
       {
         "class": "devicon-jest-plain",
         "name": "Jest"
@@ -256,6 +273,11 @@
         "name": "MySql",
         "class": "devicon-mysql-plain",
         "level": "60"
+      },
+      {
+        "class": "devicon-googlecloud-plain",
+        "name": "ChromaDB",
+        "level": "100"
       },
       {
         "name": "PostgreSQL",
