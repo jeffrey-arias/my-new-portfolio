@@ -184,3 +184,10 @@
 .slider-nav-btn:hover { background: #339acc; }
 .slider-prev { left: 8px; }
 .slider-next { right: 8px; }
+/* Hide empty content box on timeline end marker */
+.timeline-end-marker .vertical-timeline-element-content {
+  display: none !important;
+}
+.timeline-end-marker .vertical-timeline-element-content-arrow {
+  display: none !important;
+}

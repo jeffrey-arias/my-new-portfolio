@@ -59,9 +59,24 @@ export default function Experience({ resumeExperience, resumeBasicInfo }) {
               </VerticalTimelineElement>
             ))}
 
-            {/* Start marker */}
+            {/* Start marker — transparent content hides the empty box */}
             <VerticalTimelineElement
-              iconStyle={{ background: '#339acc', color: '#fff', fontSize: '1.2rem' }}
+              className="timeline-end-marker"
+              iconStyle={{
+                background: '#339acc',
+                color: '#fff',
+                fontSize: '1.2rem',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+              }}
+              contentStyle={{
+                background: 'transparent',
+                boxShadow: 'none',
+                border: 'none',
+                padding: 0,
+              }}
+              contentArrowStyle={{ display: 'none' }}
               icon={<span>🚀</span>}
             />
           </VerticalTimeline>
