@@ -329,6 +329,44 @@
   ],
   "mini_projects": [
     {
+      "title": "my-pokedex-with-ai",
+      "startDate": "2025",
+      "description": "A Pokémon GO–inspired Pokédex web app built with React, Vite, and Apollo GraphQL. Features a teal GO-style UI, responsive 4-column grid, live Pokémon search, typewriter animation on detail cards, and an AI-powered chat assistant called Professor Claude — a Claude-backed agent scoped strictly to Pokémon knowledge via a server-side system prompt. Backend API deployed as a Vercel serverless function.",
+      "role": "Full-stack Developer & AI Integrations",
+      "images": ["images/projects/my-pokedex-with-ai/landing.png"],
+      "url": "https://my-pokedex-with-ai.vercel.app",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React 18"
+        },
+        {
+          "class": "devicon-vitejs-plain",
+          "name": "Vite"
+        },
+        {
+          "class": "devicon-graphql-plain",
+          "name": "GraphQL"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Apollo Client"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Vercel AI SDK"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS Modules"
+        },
+        {
+          "class": "devicon-vercel-original",
+          "name": "Vercel"
+        }
+      ]
+    },
+    {
       "title": "my-new-portfolio",
       "startDate": "2025",
       "description": "Personal developer portfolio refactored from a Create React App class-component setup to a fully modern stack. Features light/dark theme, scroll-reveal animations, project modals with image sliders, vertical timeline experience section, and automated CI/CD deployment via GitHub Actions to GitHub Pages.",

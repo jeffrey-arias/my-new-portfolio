@@ -67,10 +67,15 @@
         "level": "80"
       },
       {
+        "skillName": "Anthropic Claude API",
+        "fontAwesomeClassname": "simple-icons:anthropic"
+      },
+      {
         "name": "LangChain",
         "class": "devicon-python-plain",
         "level": "80"
       },
+
       { "class": "devicon-googlecloud-plain", "name": "LangGraph" },
 
       {
@@ -82,6 +87,14 @@
         "name": "GCP",
         "class": "devicon-googlecloud-plain",
         "level": "85"
+      },
+      {
+        "skillName": "Vercel",
+        "fontAwesomeClassname": "devicon-vercel-original"
+      },
+      {
+        "skillName": "Vercel AI SDK",
+        "fontAwesomeClassname": "simple-icons:vercel"
       },
       {
         "name": "Cloud Run",
