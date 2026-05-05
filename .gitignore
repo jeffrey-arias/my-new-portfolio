@@ -26,3 +26,5 @@ yarn-error.log*
 .eslintcache
 .prettierrc
 settings.json
+public/.DS_Store
+public/images/projects/.DS_Store

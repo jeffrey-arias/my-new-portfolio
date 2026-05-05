@@ -34,6 +34,7 @@ export default function Certifications({ resumeBasicInfo, resumeCertifications }
               style={{
                 minWidth: 260,
                 maxWidth: 340,
+                width: 300,
                 opacity: visible ? 1 : 0,
                 transform: visible ? 'none' : 'scale(0.9)',
                 transition: `opacity 0.5s ease ${i * 0.1}s, transform 0.5s ease ${i * 0.1}s`,
