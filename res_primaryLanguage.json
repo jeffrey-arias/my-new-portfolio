@@ -329,7 +329,50 @@
   ],
   "mini_projects": [
     {
-      "title": "my-new-portfolio",
+      "title": "Pokedex Go AI+",
+      "startDate": "2025",
+      "description": "A Pokémon GO–inspired Pokédex web app built with React, Vite, and Apollo GraphQL. Features a teal GO-style UI, responsive 4-column grid, live Pokémon search, typewriter animation on detail cards, and an AI-powered chat assistant called Professor Claude — a Claude-backed agent scoped strictly to Pokémon knowledge via a server-side system prompt. Backend API deployed as a Vercel serverless function.",
+      "role": "Full-stack Developer & AI Integrations",
+      "images": [
+        "images/projects/my-pokedex-with-ai/landing.png",
+        "images/projects/my-pokedex-with-ai/1.png",
+        "images/projects/my-pokedex-with-ai/2.png",
+        "images/projects/my-pokedex-with-ai/3.png"
+      ],
+      "url": "https://my-pokedex-with-ai.vercel.app",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React 18"
+        },
+        {
+          "class": "devicon-vitejs-plain",
+          "name": "Vite"
+        },
+        {
+          "class": "devicon-graphql-plain",
+          "name": "GraphQL"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Apollo Client"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Vercel AI SDK"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS Modules"
+        },
+        {
+          "class": "devicon-vercel-original",
+          "name": "Vercel"
+        }
+      ]
+    },
+    {
+      "title": "My Portfolio",
       "startDate": "2025",
       "description": "Personal developer portfolio refactored from a Create React App class-component setup to a fully modern stack. Features light/dark theme, scroll-reveal animations, project modals with image sliders, vertical timeline experience section, and automated CI/CD deployment via GitHub Actions to GitHub Pages.",
       "role": "Front-end Developer",
@@ -385,26 +428,7 @@
         { "class": "devicon-github-original", "name": "GitHub" }
       ]
     },
-    {
-      "title": "React Jest Webapp",
-      "startDate": "2023",
-      "description": "A reusable menu component, written in TypeScript to highlight proper unit testing in Jest",
-      "role": "Front-end developer",
-      "images": [
-        "images/projects/sapiaai/1.png",
-        "images/projects/sapiaai/2.png"
-      ],
-      "url": "https://github.com/jeffrey-arias/my-sapiaai-menu",
-      "technologies": [
-        { "class": "devicon-react-original", "name": "React" },
-        {
-          "class": "myicon-styledcomponents-dark",
-          "name": "Styled Components"
-        },
-        { "class": "devicon-typescript-plain", "name": "TypeScript" },
-        { "class": "devicon-jest-plain", "name": "Jest+Enzyme" }
-      ]
-    },
+
     {
       "title": "React GraphQL Pokedex",
       "startDate": "2021",
