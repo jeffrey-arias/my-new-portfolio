@@ -14,6 +14,27 @@
   },
   "projects": [
     {
+      "title": "Templi Proofing App",
+      "startDate": "2026",
+      "description": "An internal design and content proofing/review tool built for Templi, letting stakeholders review, annotate, and approve design and content proofs before they go live. Integrates with Gorgias for support context and Trello for task tracking.",
+      "images": [
+        "images/projects/templi-proofing-app/landing.png"
+      ],
+      "role": "Full-stack Developer",
+      "url": "https://templi-proofing-app-production.up.railway.app/",
+      "technologies": [
+        { "class": "devicon-react-plain", "name": "React" },
+        { "class": "devicon-nextjs-original-wordmark", "name": "NextJS" },
+        { "class": "devicon-typescript-plain", "name": "TypeScript" },
+        { "class": "devicon-tailwindcss-plain", "name": "Tailwind" },
+        { "class": "devicon-postgresql-plain", "name": "PostgreSQL" },
+        { "class": "devicon-magento-original", "name": "Magento2" },
+        { "class": "devicon-googlecloud-plain", "name": "GCP" },
+        { "class": "devicon-railway-plain", "name": "Railway" },
+        { "class": "devicon-github-original", "name": "GitHub" }
+      ]
+    },
+    {
       "title": "MedDigest LLC",
       "startDate": "2025",
       "description": "A secure, professional online community platform for verified medical professionals. Features include clinical case discussions with strict anonymization, research and guideline sharing, cross-specialty networking, and collaboration on education and medical initiatives.",
