@@ -386,6 +386,9 @@
           "name": "Apollo Client"
         },
         {
+          "name": "Anthropic Claude API"
+        },
+        {
           "class": "devicon-javascript-plain",
           "name": "Vercel AI SDK"
         },
