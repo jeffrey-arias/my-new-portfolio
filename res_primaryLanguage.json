@@ -18,7 +18,11 @@
       "startDate": "2026",
       "description": "An internal design and content proofing/review tool built for Templi, letting stakeholders review, annotate, and approve design and content proofs before they go live. Integrates with Gorgias for support context and Trello for task tracking.",
       "images": [
-        "images/projects/templi-proofing-app/landing.png"
+        "images/projects/templi-proofing-app/proof-review.png",
+        "images/projects/templi-proofing-app/dashboard-active-proofs.png",
+        "images/projects/templi-proofing-app/proof-detail.png",
+        "images/projects/templi-proofing-app/reports.png",
+        "images/projects/templi-proofing-app/users.png"
       ],
       "role": "Full-stack Developer",
       "url": "https://templi-proofing-app-production.up.railway.app/",
@@ -93,6 +97,9 @@
         { "class": "devicon-graphql-plain", "name": "GraphQL" },
         { "class": "devicon-magento-original", "name": "Magento2" },
         { "class": "devicon-tailwindcss-plain", "name": "Tailwind" },
+        { "class": "devicon-postgresql-plain", "name": "PostgreSQL" },
+        { "class": "devicon-googlecloud-plain", "name": "GCP" },
+        { "class": "devicon-railway-plain", "name": "Railway" },
         { "class": "devicon-jest-plain", "name": "Jest+Enzyme" },
         { "class": "devicon-docker-plain", "name": "Docker" },
         { "class": "devicon-github-original", "name": "GitHub" }
