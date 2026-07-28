@@ -67,8 +67,7 @@
         "level": "80"
       },
       {
-        "skillName": "Anthropic Claude API",
-        "fontAwesomeClassname": "simple-icons:anthropic"
+        "name": "Anthropic Claude API"
       },
       {
         "name": "LangChain",
@@ -89,12 +88,12 @@
         "level": "85"
       },
       {
-        "skillName": "Vercel",
-        "fontAwesomeClassname": "devicon-vercel-original"
+        "name": "Vercel",
+        "class": "devicon-vercel-original"
       },
       {
-        "skillName": "Vercel AI SDK",
-        "fontAwesomeClassname": "simple-icons:vercel"
+        "name": "Vercel AI SDK",
+        "class": "devicon-vercel-original"
       },
       {
         "name": "Cloud Run",
